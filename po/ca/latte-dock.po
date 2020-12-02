@@ -1,0 +1,2484 @@
+# Translation of latte-dock.po to Catalan
+# Copyright (C) 2017-2020 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2017, 2018, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2017, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: latte-dock\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2020-04-06 08:48+0200\n"
+"PO-Revision-Date: 2020-03-19 08:20+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 20.03.70\n"
+"X-Accelerator-Marker: &\n"
+
+#, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Josep Ma. Ferrer,Antoni Bella"
+
+#, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "txemaq@gmail.com,antonibella5@yahoo.com"
+
+#: app/indicator/factory.cpp:202
+#, kde-format
+msgid "Failed to import indicator"
+msgstr "Ha fallat en importar l'indicador"
+
+#: app/indicator/factory.cpp:208
+#, kde-format
+msgctxt "indicator_name, imported updated"
+msgid "%0 indicator updated successfully"
+msgstr "L'indicador %0 s'ha actualitzat amb èxit"
+
+#: app/indicator/factory.cpp:209
+#, kde-format
+msgctxt "indicator_name, imported success"
+msgid "%0 indicator installed successfully"
+msgstr "L'indicador %0 s'ha instal·lat amb èxit"
+
+#: app/indicator/factory.cpp:290
+#, kde-format
+msgid "Remove Indicator"
+msgstr "Elimina l'indicador"
+
+#: app/indicator/factory.cpp:292
+#, kde-format
+msgid "Do you want to remove <b>%0</b> indicator from your system?"
+msgstr "Voleu eliminar l'indicador <b>%0</b> del vostre sistema?"
+
+#: app/indicator/factory.cpp:299
+#, kde-format
+msgctxt "indicator_name, removed success"
+msgid "<b>%0</b> indicator removed successfully"
+msgstr "L'indicador <b>%0</b> s'ha eliminat amb èxit"
+
+#: app/lattecorona.cpp:1089
+#, kde-format
+msgid "The layout cannot be imported from file :: "
+msgstr "La disposició no s'ha pogut importar des del fitxer :: "
+
+#: app/layout/genericlayout.cpp:1357
+#, kde-format
+msgctxt "bottom edge"
+msgid "Bottom"
+msgstr "Inferior"
+
+#: app/layout/genericlayout.cpp:1358
+#, kde-format
+msgctxt "left edge"
+msgid "Left"
+msgstr "Esquerra"
+
+#: app/layout/genericlayout.cpp:1359
+#, kde-format
+msgctxt "top edge"
+msgid "Top"
+msgstr "Superior"
+
+#: app/layout/genericlayout.cpp:1360
+#, kde-format
+msgctxt "right edge"
+msgid "Right"
+msgstr "Dreta"
+
+#: app/layout/genericlayout.cpp:1387
+#, kde-format
+msgctxt "active docks panels"
+msgid "Active Views:"
+msgstr "Vistes actives:"
+
+#: app/layout/genericlayout.cpp:1421
+#, kde-format
+msgid "Orphan Systrays:"
+msgstr "Safates del sistema orfes:"
+
+#: app/layout/genericlayout.cpp:1431
+#, kde-format
+msgctxt "view id"
+msgid "ID"
+msgstr "ID"
+
+#: app/layout/genericlayout.cpp:1432
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:76
+#, kde-format
+msgid "Screen"
+msgstr "Pantalla"
+
+#: app/layout/genericlayout.cpp:1433
+#, kde-format
+msgctxt "screen edge"
+msgid "Edge"
+msgstr "Vora"
+
+#: app/layout/genericlayout.cpp:1434
+#, kde-format
+msgctxt "active dock/panel"
+msgid "Active"
+msgstr "Actiu"
+
+#: app/layout/genericlayout.cpp:1435
+#, kde-format
+msgid "Systrays"
+msgstr "Safates del sistema"
+
+#: app/layout/genericlayout.cpp:1494 app/screenpool.cpp:144
+#, kde-format
+msgctxt "primary screen"
+msgid "Primary"
+msgstr "Primària"
+
+#: app/layout/genericlayout.cpp:1522
+#, kde-format
+msgid "Yes"
+msgstr "Sí"
+
+#: app/layout/genericlayout.cpp:1547
+#, kde-format
+msgid "No errors were identified for this layout..."
+msgstr "No s'ha identificat cap error per a aquesta disposició..."
+
+#: app/layout/genericlayout.cpp:1549
+#, kde-format
+msgid "Errors:"
+msgstr "Errors:"
+
+#: app/layout/genericlayout.cpp:1559
+#, kde-format
+msgid "Unknown screens: "
+msgstr "Pantalles desconegudes: "
+
+#: app/layout/storage.cpp:722
+#, kde-format
+msgid "Same applet and containment id found ::: "
+msgstr "S'ha trobat una miniaplicació i un contenidor amb el mateix ID ::: "
+
+#: app/layout/storage.cpp:731
+#, kde-format
+msgid "Different applets with same id ::: "
+msgstr "Miniaplicacions diferents amb el mateix ID ::: "
+
+#: app/layouts/importer.cpp:65 app/layouts/importer.cpp:83
+#: app/layouts/manager.cpp:92 app/layouts/manager.cpp:99
+#: app/layouts/manager.cpp:109
+#, kde-format
+msgid "My Layout"
+msgstr "La meva disposició"
+
+#: app/layouts/importer.cpp:66 app/layouts/synchronizer.cpp:671
+#: app/layouts/synchronizer.cpp:672
+#, kde-format
+msgid "Alternative"
+msgstr "Alternativa"
+
+#: app/layouts/importer.cpp:322
+#, kde-format
+msgctxt "import/export config"
+msgid "The extracted file could not be copied!!!"
+msgstr "No s'ha pogut copiar el fitxer extret!"
+
+#: app/layouts/importer.cpp:327
+#, kde-format
+msgctxt "import/export config"
+msgid "The file has a wrong format!!!"
+msgstr "El fitxer té un format incorrecte!!!"
+
+#: app/layouts/importer.cpp:333
+#, kde-format
+msgctxt "import/export config"
+msgid "The temp directory could not be created!!!"
+msgstr "No s'ha pogut crear el directori temporal!"
+
+#: app/layouts/manager.cpp:253
+#, kde-format
+msgid "Multiple Layouts Warning"
+msgstr "Avís de múltiples disposicions"
+
+#: app/layouts/manager.cpp:254
+#, kde-format
+msgid ""
+"Latte did not close properly in the previous session. The following "
+"layout(s) <b>[%0]</b> were updated for consistency!!!"
+msgstr ""
+"El Latte no es va tancar correctament a la sessió anterior. S'ha/n "
+"actualitzat la/es següent/s disposició/ons <b>[%0]</b> per coherència!"
+
+#: app/layouts/manager.cpp:362 app/layouts/manager.cpp:474
+#: app/layouts/synchronizer.cpp:672
+#, kde-format
+msgid "Default"
+msgstr "Predeterminat"
+
+#: app/layouts/manager.cpp:475
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:643
+#, kde-format
+msgid "Plasma"
+msgstr "Plasma"
+
+#: app/layouts/manager.cpp:476
+#, kde-format
+msgid "Unity"
+msgstr "Unity"
+
+#: app/layouts/manager.cpp:477
+#, kde-format
+msgid "Extended"
+msgstr "Ampliat"
+
+#: app/layouts/synchronizer.cpp:430
+#, kde-format
+msgid "Switching to layout <b>%0</b> ..."
+msgstr "S'està canviant a la disposició <b>%0</b>..."
+
+#: app/layouts/synchronizer.cpp:879
+#, kde-format
+msgid "Activating layout: <b>%0</b> ..."
+msgstr "S'està activant la disposició: <b>%0</b>..."
+
+# skip-rule: kct-dock
+#: app/main.cpp:101
+#, kde-format
+msgctxt "command line"
+msgid "Replace the current Latte instance."
+msgstr "Substitueix la instància actual del Latte."
+
+#: app/main.cpp:102
+#, kde-format
+msgctxt "command line"
+msgid "Show the debugging messages on stdout."
+msgstr "Mostra els missatges de depuració a la sortida estàndard."
+
+#: app/main.cpp:103
+#, kde-format
+msgctxt "command line"
+msgid "Clear qml cache. It can be useful after system upgrades."
+msgstr ""
+"Neteja la memòria cau del QML. Pot ser útil després d'actualitzar el sistema."
+
+#: app/main.cpp:104
+#, kde-format
+msgctxt "command line"
+msgid "Import and load default layout on startup."
+msgstr "Importa i carrega la disposició predeterminada durant l'inici."
+
+#: app/main.cpp:105
+#, kde-format
+msgctxt "command line"
+msgid "Print available layouts"
+msgstr "Imprimeix les disposicions disponibles"
+
+#: app/main.cpp:106
+#, kde-format
+msgctxt "command line"
+msgid "Load specific layout on startup."
+msgstr "Carregueu una disposició específica durant l'inici."
+
+#: app/main.cpp:106
+#, kde-format
+msgctxt "command line: load"
+msgid "layout_name"
+msgstr "nom_disposició"
+
+#: app/main.cpp:107
+#, kde-format
+msgctxt "command line"
+msgid "Import and load a layout."
+msgstr "Importa i carrega una disposició."
+
+#: app/main.cpp:107 app/main.cpp:108
+#, kde-format
+msgctxt "command line: import"
+msgid "file_name"
+msgstr "nom_fitxer"
+
+#: app/main.cpp:108
+#, kde-format
+msgctxt "command line"
+msgid "Import full configuration."
+msgstr "Importa tota la configuració."
+
+#: app/main.cpp:109
+#, kde-format
+msgctxt "command line"
+msgid "Single layout memory mode. Only one layout is active at any case."
+msgstr ""
+"Mode de memòria de disposició única. Només hi ha una disposició activa en "
+"qualsevol cas."
+
+#: app/main.cpp:110
+#, kde-format
+msgctxt "command line"
+msgid ""
+"Multiple layouts memory mode. Multiple layouts can be active at any time "
+"based on Activities running."
+msgstr ""
+"Mode de memòria de disposicions múltiples. Poden haver-hi diverses "
+"disposicions actives en qualsevol moment, segons les activitats en execució."
+
+#: app/main.cpp:157
+#, kde-format
+msgid "Available layouts that can be used to start Latte:"
+msgstr "Disposicions disponibles que es poden usar per iniciar el Latte:"
+
+#: app/main.cpp:163
+#, kde-format
+msgid "There are no available layouts, during startup Default will be used."
+msgstr ""
+"No hi ha cap disposició disponible, durant l'inici es farà servir el valor "
+"predeterminat."
+
+#: app/main.cpp:181
+#, kde-format
+msgctxt "layout missing"
+msgid "This layout doesn't exist in the system."
+msgstr "Aquesta disposició no existeix al sistema."
+
+#: app/main.cpp:207
+#, kde-format
+msgid "An instance is already running!, use --replace to restart Latte"
+msgstr ""
+"Ja s'està executant una instància! Useu --replace per a reiniciar el Latte"
+
+#: app/main.cpp:227
+#, kde-format
+msgid "The configuration cannot be imported"
+msgstr "La configuració no s'ha pogut importar"
+
+#: app/main.cpp:238
+#, kde-format
+msgid "The layout cannot be imported"
+msgstr "La disposició no s'ha pogut importar"
+
+#: app/main.cpp:293
+#, kde-format
+msgid ""
+"Latte is a dock based on plasma frameworks that provides an elegant and "
+"intuitive experience for your tasks and plasmoids. It animates its contents "
+"by using parabolic zoom effect and tries to be there only when it is "
+"needed.\n"
+"\n"
+"\"Art in Coffee\""
+msgstr ""
+"El Latte és un acoblador basat en els Frameworks del Plasma que proporciona "
+"una experiència elegant i intuïtiva per a les vostres tasques i els "
+"plasmoides. Anima els seus continguts usant un efecte de zoom parabòlic i "
+"intenta mostrar-se només quan cal.\n"
+"\n"
+"«Art durant el cafè»"
+
+#: app/package/lattepackage.cpp:46
+#, kde-format
+msgid "Latte Dock defaults"
+msgstr "Valors predeterminats de l'acoblador del Latte"
+
+# skip-rule: kct-dock
+#: app/package/lattepackage.cpp:47
+#, kde-format
+msgid "Latte Dock panel"
+msgstr "Plafó del Latte Dock"
+
+#: app/package/lattepackage.cpp:49
+#, kde-format
+msgid "Dock configuration UI"
+msgstr "IU per a la configuració de l'acoblador"
+
+#: app/package/lattepackage.cpp:50
+#, kde-format
+msgid "Dock secondary configuration UI"
+msgstr "IU de la configuració secundària de l'acoblador"
+
+#: app/package/lattepackage.cpp:51
+#, kde-format
+msgid "Config model"
+msgstr "Model de configuració"
+
+#: app/package/lattepackage.cpp:52
+#, kde-format
+msgid "Splitter"
+msgstr "Separador"
+
+#: app/package/lattepackage.cpp:53
+#, kde-format
+msgid "Latte Trademark"
+msgstr "Marca comercial Latte"
+
+#: app/package/lattepackage.cpp:54
+#, kde-format
+msgid "Info View Window"
+msgstr "Finestra per veure la informació"
+
+#: app/package/lattepackage.cpp:56
+#, kde-format
+msgid "default layout file"
+msgstr "Fitxer de disposició predeterminat"
+
+#: app/package/lattepackage.cpp:57
+#, kde-format
+msgid "plasma layout file"
+msgstr "Fitxer de disposició del Plasma"
+
+#: app/package/lattepackage.cpp:58
+#, kde-format
+msgid "unity layout file"
+msgstr "Fitxer de disposició de l'Unity"
+
+#: app/package/lattepackage.cpp:59
+#, kde-format
+msgid "extended layout file"
+msgstr "Fitxer de disposició ampliada"
+
+#: app/package/lattepackage.cpp:61
+#, kde-format
+msgid "default preset file"
+msgstr "Fitxer amb ajustaments predefinits"
+
+#: app/package/lattepackage.cpp:62
+#, kde-format
+msgid "plasma preset file"
+msgstr "Fitxer amb ajustaments predefinits del Plasma"
+
+#: app/package/lattepackage.cpp:63
+#, kde-format
+msgid "unity preset file"
+msgstr "Fitxer amb ajustaments predefinits de l'Unity"
+
+#: app/package/lattepackage.cpp:64
+#, kde-format
+msgid "extended preset file"
+msgstr "Fitxer amb ajustaments predefinits de l'ampliada"
+
+#: app/package/lattepackage.cpp:65
+#, kde-format
+msgid "multiple layouts hidden file"
+msgstr "fitxer ocult amb múltiples disposicions"
+
+#: app/package/lattepackage.cpp:67
+#, kde-format
+msgid "a qml file that is used to publish broadcasted backgrounds"
+msgstr "un fitxer QML que s'usa per publicar fons difosos"
+
+#: app/packageplugins/indicator/indicatorpackage.cpp:44
+#, kde-format
+msgid "Configuration Definitions"
+msgstr "Definicions de la configuració"
+
+#: app/packageplugins/indicator/indicatorpackage.cpp:45
+#, kde-format
+msgid "User Interface"
+msgstr "Interfície d'usuari"
+
+#: app/packageplugins/indicator/indicatorpackage.cpp:46
+#, kde-format
+msgid "Data Files"
+msgstr "Fitxers de dades"
+
+#: app/packageplugins/indicator/indicatorpackage.cpp:47
+#, kde-format
+msgid "Executable Scripts"
+msgstr "Scripts executables"
+
+#: app/packageplugins/indicator/indicatorpackage.cpp:48
+#, kde-format
+msgid "Translations"
+msgstr "Traduccions"
+
+#: app/screenpool.cpp:112
+#, kde-format
+msgctxt "screen id"
+msgid "ID"
+msgstr "ID"
+
+#: app/screenpool.cpp:113
+#, kde-format
+msgctxt "screen name"
+msgid "Name"
+msgstr "Nom"
+
+#: app/screenpool.cpp:114
+#, kde-format
+msgctxt "screen type"
+msgid "Type"
+msgstr "Tipus"
+
+#: app/screenpool.cpp:115
+#, kde-format
+msgid "Docks/Panels"
+msgstr "Acobladors/Plafons"
+
+#: app/screenpool.cpp:146
+#, kde-format
+msgctxt "secondary screen"
+msgid "Secondary"
+msgstr "Secundària"
+
+#: app/screenpool.cpp:148
+#, kde-format
+msgctxt "inactive screen"
+msgid "inactive"
+msgstr "inactiva"
+
+#: app/screenpool.cpp:156
+#, kde-format
+msgctxt "it has not latte docks/panels"
+msgid "none"
+msgstr "cap"
+
+#: app/settings/delegates/colorcmbboxdelegate.cpp:76
+#, kde-format
+msgid "Custom background..."
+msgstr "Fons personalitzat..."
+
+#: app/settings/delegates/colorcmbboxdelegate.cpp:79
+#, kde-format
+msgid "Custom text color..."
+msgstr "Color de text personalitzat..."
+
+#: app/settings/settingsdialog.cpp:155
+#, kde-format
+msgid "File"
+msgstr "Fitxer"
+
+#: app/settings/settingsdialog.cpp:158
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:64
+#, kde-format
+msgid "Layout"
+msgstr "Disposició"
+
+#: app/settings/settingsdialog.cpp:171
+#, kde-format
+msgid "Sc&reens..."
+msgstr "Pa&ntalles..."
+
+#: app/settings/settingsdialog.cpp:175
+#, kde-format
+msgid "&Quit Latte"
+msgstr "&Surt del Latte"
+
+#: app/settings/settingsdialog.cpp:179
+#, kde-format
+msgctxt "edit layout"
+msgid "&Edit..."
+msgstr "&Edita..."
+
+#: app/settings/settingsdialog.cpp:184
+#, kde-format
+msgctxt "layout information"
+msgid "&Information..."
+msgstr "&Informació..."
+
+#: app/settings/settingsdialog.cpp:558
+#, kde-format
+msgctxt "import layout/configuration"
+msgid "Import Layout/Configuration"
+msgstr "Importa disposició/configuració"
+
+# skip-rule: kct-dock
+#: app/settings/settingsdialog.cpp:567
+#, kde-format
+msgctxt "import latte layout"
+msgid "Latte Dock Layout file v0.2"
+msgstr "Fitxer de disposició del Latte Dock v0.2"
+
+# skip-rule: kct-dock
+#: app/settings/settingsdialog.cpp:568
+#, kde-format
+msgctxt "import latte layouts/configuration"
+msgid "Latte Dock Full Configuration file (v0.1, v0.2)"
+msgstr "Fitxer de configuració completa del Latte Dock (v0.1, v0.2)"
+
+#: app/settings/settingsdialog.cpp:584
+#, kde-format
+msgid "Import: Configuration file version v0.1"
+msgstr "Importa: Fitxer de configuració versió v0.1"
+
+#: app/settings/settingsdialog.cpp:586
+#, kde-format
+msgid ""
+"You are going to import an old version <b>v0.1</b> configuration file."
+"<br><b>Be careful</b>, importing the entire configuration <b>will erase all</"
+"b> your current configuration!!!<br><br> <i>Alternative, you can <b>import "
+"safely</b> from this file<br><b>only the contained layouts...</b></i>"
+msgstr ""
+"Esteu a punt d'importar una versió antiga <b>v0.1</b> del fitxer de "
+"configuració. <br><b>Aneu amb compte</b>, la importació de la configuració "
+"completa <b>esborrarà tota</b> la configuració actual!<br><br> "
+"<i>Alternativament, podeu <b>importar amb seguretat</b> des d'aquest "
+"fitxer<br><b>només les disposicions contingudes...</b></i>"
+
+#: app/settings/settingsdialog.cpp:591
+#, kde-format
+msgctxt "import full configuration"
+msgid "Full Configuration"
+msgstr "Configuració completa"
+
+#: app/settings/settingsdialog.cpp:593
+#, kde-format
+msgctxt "import only the layouts"
+msgid "Only Layouts"
+msgstr "Només disposicions"
+
+#: app/settings/settingsdialog.cpp:619
+#, kde-format
+msgid "Import: Configuration file version v0.2"
+msgstr "Importa: Fitxer de configuració versió v0.2"
+
+#: app/settings/settingsdialog.cpp:621
+#, kde-format
+msgid ""
+"You are going to import a <b>v0.2</b> configuration file.<br><b>Be careful</"
+"b>, importing <b>will erase all</b> your current configuration!!!"
+"<br><br><i>Would you like to proceed?</i>"
+msgstr ""
+"Esteu a punt d'importar un fitxer de configuració <b>v0.2</b>.<br><b>Aneu "
+"amb compte</b>, la importació <b>esborrarà tota</b> la vostra configuració "
+"actual!!!<br><br><i>Voleu continuar?</i>"
+
+#: app/settings/settingsdialog.cpp:666
+#, kde-format
+msgctxt "layout"
+msgid "Alternative"
+msgstr "Alternativa"
+
+#: app/settings/settingsdialog.cpp:696
+#, kde-format
+msgctxt "export layout/configuration"
+msgid "Export Layout/Configuration"
+msgstr "Exporta disposició/configuració"
+
+# skip-rule: kct-dock
+#: app/settings/settingsdialog.cpp:704
+#, kde-format
+msgctxt "export layout"
+msgid "Latte Dock Layout file v0.2"
+msgstr "Fitxer de disposició del Latte Dock v0.2"
+
+# skip-rule: kct-dock
+#: app/settings/settingsdialog.cpp:705
+#, kde-format
+msgctxt "export full configuration"
+msgid "Latte Dock Full Configuration file v0.2"
+msgstr "Fitxer amb tota la configuració del Latte Dock v0.2"
+
+#: app/settings/settingsdialog.cpp:719
+#, kde-format
+msgctxt "export layout"
+msgid "Failed to export layout"
+msgstr "Ha fallat en exportar la disposició"
+
+#: app/settings/settingsdialog.cpp:746
+#, kde-format
+msgctxt "export layout"
+msgid "Open location"
+msgstr "Obre la ubicació"
+
+#: app/settings/settingsdialog.cpp:747
+#, kde-format
+msgctxt "export layout"
+msgid "Layout exported successfully"
+msgstr "La disposició s'ha exportat amb èxit"
+
+#: app/settings/settingsdialog.cpp:758
+#, kde-format
+msgctxt "import/export config"
+msgid "Failed to export configuration"
+msgstr "Ha fallat en exportar la configuració"
+
+#: app/settings/settingsdialog.cpp:765
+#, kde-format
+msgctxt "import/export config"
+msgid "Open location"
+msgstr "Obre la ubicació"
+
+#: app/settings/settingsdialog.cpp:766
+#, kde-format
+msgctxt "import/export config"
+msgid "Full Configuration exported successfully"
+msgstr "S'ha exportat tota la configuració amb èxit"
+
+#: app/settings/settingsdialog.cpp:935
+#, kde-format
+msgctxt "import-done"
+msgid "Layout: <b>%0</b> imported successfully<br>"
+msgstr "Disposició: <b>%0</b> s'ha importat amb èxit<br>"
+
+#: app/settings/settingsdialog.cpp:1027
+#, kde-format
+msgctxt "column for layout background"
+msgid "Background"
+msgstr "Fons"
+
+#: app/settings/settingsdialog.cpp:1028
+#, kde-format
+msgctxt "column for layout name"
+msgid "Name"
+msgstr "Nom"
+
+#: app/settings/settingsdialog.cpp:1029
+#, kde-format
+msgctxt "column for layout to show in menu"
+msgid "In Menu"
+msgstr "Al menú"
+
+#: app/settings/settingsdialog.cpp:1030
+#, kde-format
+msgctxt "column for layout to hide borders for maximized windows"
+msgid "Borderless"
+msgstr "Sense vores"
+
+#: app/settings/settingsdialog.cpp:1032
+#, kde-format
+msgctxt "column for layout to show which activities is assigned to"
+msgid "Activities"
+msgstr "Activitats"
+
+#: app/settings/settingsdialog.cpp:1034
+#, kde-format
+msgctxt "column for shared layout to show which layouts is assigned to"
+msgid "Shared To"
+msgstr "Compartit amb"
+
+#: app/settings/settingsdialog.cpp:1089 app/settings/settingsdialog.cpp:1535
+#, kde-format
+msgid "Layout Warning"
+msgstr "Avís de la disposició"
+
+#: app/settings/settingsdialog.cpp:1090
+#, kde-format
+msgid ""
+"The layout(s) <b>%0</b> have <i>broken configuration</i>!!! Please <b>remove "
+"them</b> to improve the system stability..."
+msgstr ""
+"La disposició/ons <b>%0</b> ha/n <i>trencat la configuració</i>! <b>Elimineu-"
+"la/es</b> per a millorar l'estabilitat del sistema..."
+
+#: app/settings/settingsdialog.cpp:1536
+#, kde-format
+msgid ""
+"There are layouts with the same name, that is not permitted!!! Please update "
+"these names to re-apply the changes..."
+msgstr ""
+"Hi ha disposicions amb el mateix nom, això no està permès! Actualitzeu "
+"aquests noms per tornar a aplicar els canvis..."
+
+#: app/settings/settingsdialog.cpp:1597
+#, kde-format
+msgid "Screens Information"
+msgstr "Informació sobre les pantalles"
+
+#. i18n: ectx: property (windowTitle), widget (QDialog, SettingsDialog)
+#: app/settings/settingsdialog.ui:14
+#, kde-format
+msgctxt "latte settings window"
+msgid "Settings"
+msgstr "Arranjament"
+
+#. i18n: ectx: attribute (title), widget (QWidget, layoutsTab)
+#: app/settings/settingsdialog.ui:24
+#, kde-format
+msgid "Layouts"
+msgstr "Disposicions"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, singleToolBtn)
+#: app/settings/settingsdialog.ui:53
+#, kde-format
+msgid "Only one layout can be present in memory at all cases"
+msgstr ""
+"En tots els casos a la memòria només hi pot haver present una disposició"
+
+#. i18n: ectx: property (text), widget (QToolButton, singleToolBtn)
+#: app/settings/settingsdialog.ui:56
+#, kde-format
+msgctxt "single layout"
+msgid "Single"
+msgstr "Individual"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, multipleToolBtn)
+#: app/settings/settingsdialog.ui:66
+#, kde-format
+msgid "Multiple layouts can be present and active in memory at the same time"
+msgstr ""
+"Poden haver-hi presents a la memòria múltiples disposicions i actives al "
+"mateix temps"
+
+#. i18n: ectx: property (text), widget (QToolButton, multipleToolBtn)
+#: app/settings/settingsdialog.ui:69
+#, kde-format
+msgctxt "multiple layouts"
+msgid "Multiple"
+msgstr "Múltiples"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, switchButton)
+#: app/settings/settingsdialog.ui:139
+#, kde-format
+msgid "Switch to selected layout"
+msgstr "Commuta a la disposició seleccionada"
+
+#. i18n: ectx: property (text), widget (QPushButton, switchButton)
+#: app/settings/settingsdialog.ui:142
+#, kde-format
+msgctxt "switch to layout"
+msgid "Switch"
+msgstr "Commuta"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, pauseButton)
+#: app/settings/settingsdialog.ui:153
+#, kde-format
+msgid "Pause all activities from the selected layout"
+msgstr "Posa en pausa totes les activitats de la disposició seleccionada"
+
+#. i18n: ectx: property (text), widget (QPushButton, pauseButton)
+#: app/settings/settingsdialog.ui:156
+#, kde-format
+msgid "Pause"
+msgstr "Pausa"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, newButton)
+#: app/settings/settingsdialog.ui:212
+#, kde-format
+msgid "New layout"
+msgstr "Disposició nova"
+
+#. i18n: ectx: property (text), widget (QPushButton, newButton)
+#: app/settings/settingsdialog.ui:215
+#, kde-format
+msgctxt "new layout"
+msgid "New"
+msgstr "Nova"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, copyButton)
+#: app/settings/settingsdialog.ui:226
+#, kde-format
+msgid "Copy selected layout"
+msgstr "Copia la disposició seleccionada"
+
+#. i18n: ectx: property (text), widget (QPushButton, copyButton)
+#: app/settings/settingsdialog.ui:229
+#, kde-format
+msgctxt "copy layout"
+msgid "Copy"
+msgstr "Copia"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, removeButton)
+#: app/settings/settingsdialog.ui:243
+#, kde-format
+msgid "Remove selected layout"
+msgstr "Elimina la disposició seleccionada"
+
+#. i18n: ectx: property (text), widget (QPushButton, removeButton)
+#: app/settings/settingsdialog.ui:246
+#, kde-format
+msgctxt "remove layout"
+msgid "Remove"
+msgstr "Elimina"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, lockedButton)
+#: app/settings/settingsdialog.ui:273
+#, kde-format
+msgid "Lock layout and make it read-only"
+msgstr "Bloca la disposició i fes-la de només lectura"
+
+#. i18n: ectx: property (text), widget (QPushButton, lockedButton)
+#: app/settings/settingsdialog.ui:276
+#, kde-format
+msgctxt "locked layout"
+msgid "Locked"
+msgstr "Blocada"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, sharedButton)
+#: app/settings/settingsdialog.ui:290
+#, kde-format
+msgid "Share that layout with other central layouts"
+msgstr "Comparteix aquesta disposició amb altres disposicions centrals"
+
+#. i18n: ectx: property (text), widget (QPushButton, sharedButton)
+#: app/settings/settingsdialog.ui:293
+#, kde-format
+msgid "Shared"
+msgstr "Compartida"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, importButton)
+#: app/settings/settingsdialog.ui:367
+#, kde-format
+msgid "Import a layout or full configuration file"
+msgstr "Importa una disposició o un fitxer amb tota la configuració"
+
+#. i18n: ectx: property (text), widget (QPushButton, importButton)
+#: app/settings/settingsdialog.ui:370
+#, kde-format
+msgctxt "import layout"
+msgid "Import"
+msgstr "Importa"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, exportButton)
+#: app/settings/settingsdialog.ui:384
+#, kde-format
+msgid "Export selected layout or full configuration into a file"
+msgstr "Exporta una disposició o un fitxer amb tota la configuració"
+
+#. i18n: ectx: property (text), widget (QPushButton, exportButton)
+#: app/settings/settingsdialog.ui:387
+#, kde-format
+msgctxt "export layout"
+msgid "Export"
+msgstr "Exporta"
+
+#. i18n: ectx: property (toolTip), widget (QPushButton, downloadButton)
+#: app/settings/settingsdialog.ui:398
+#, kde-format
+msgid "Download community layouts from the Internet"
+msgstr "Baixa les disposicions de la comunitat des d'Internet"
+
+#. i18n: ectx: property (text), widget (QPushButton, downloadButton)
+#: app/settings/settingsdialog.ui:401
+#, kde-format
+msgctxt "download layout"
+msgid "Download"
+msgstr "Baixa"
+
+#. i18n: ectx: attribute (title), widget (QWidget, preferencesTab)
+#: app/settings/settingsdialog.ui:439
+#, kde-format
+msgid "Preferences"
+msgstr "Preferències"
+
+#. i18n: ectx: property (text), widget (QLabel, appearanceLbl)
+#: app/settings/settingsdialog.ui:514
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:442
+#, kde-format
+msgid "Appearance"
+msgstr "Aparença"
+
+#. i18n: ectx: property (text), widget (QCheckBox, badges3DStyleChkBox)
+#: app/settings/settingsdialog.ui:539
+#, kde-format
+msgid "Use 3D style for notification and shortcut badges"
+msgstr "Usa l'estil 3D per als distintius de notificacions i dreceres"
+
+#. i18n: ectx: property (text), widget (QLabel, behaviorLbl)
+#: app/settings/settingsdialog.ui:576
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:437
+#, kde-format
+msgid "Behavior"
+msgstr "Comportament"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, autostartChkBox)
+#: app/settings/settingsdialog.ui:604
+#, kde-format
+msgid "Start the application automatically after each relogin"
+msgstr "Inicia l'aplicació automàticament després de cada inici de sessió"
+
+#. i18n: ectx: property (text), widget (QCheckBox, autostartChkBox)
+#: app/settings/settingsdialog.ui:607
+#, kde-format
+msgid "Enable autostart during startup"
+msgstr "Activa l'inici automàtic durant l'inici"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, infoWindowChkBox)
+#: app/settings/settingsdialog.ui:634
+#, kde-format
+msgid "Provide visual feedback when layouts are activated automatically"
+msgstr ""
+"Proporciona comentaris visuals quan les disposicions s'activin automàticament"
+
+#. i18n: ectx: property (text), widget (QCheckBox, infoWindowChkBox)
+#: app/settings/settingsdialog.ui:637
+#, kde-format
+msgid "Show informative window for layouts automatic activation"
+msgstr ""
+"Mostra una finestra informativa per a l'activació automàtica de les "
+"disposicions"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, noBordersForMaximizedChkBox)
+#: app/settings/settingsdialog.ui:664
+#, kde-format
+msgid ""
+"Activate support for borderless maximized windows between different layouts"
+msgstr ""
+"Activa el suport per a finestres maximitzades sense vores entre diferents "
+"disposicions"
+
+#. i18n: ectx: property (text), widget (QCheckBox, noBordersForMaximizedChkBox)
+#: app/settings/settingsdialog.ui:667
+#, kde-format
+msgid "Support borderless maximized windows in different layouts"
+msgstr "Suport de finestres maximitzades sense vores en diferents disposicions"
+
+#. i18n: ectx: property (text), widget (QLabel, label)
+#: app/settings/settingsdialog.ui:698
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:565
+#: shell/package/contents/configuration/pages/TasksConfig.qml:416
+#, kde-format
+msgid "Actions"
+msgstr "Accions"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, metaPressChkBox)
+#: app/settings/settingsdialog.ui:723
+#, kde-format
+msgid ""
+"Forward ⌘ press from KWin to Latte in order to activate Application "
+"Launcher. It is suggested to disable that option if you remove Latte."
+msgstr ""
+"Reenvia la tecla ⌘ des del KWin al Latte per tal d'activar el llançador "
+"d'aplicacions. Se suggereix desactivar aquesta opció si elimineu el Latte."
+
+#. i18n: ectx: property (text), widget (QCheckBox, metaPressChkBox)
+#: app/settings/settingsdialog.ui:726
+#, kde-format
+msgid "Press ⌘ to activate Application Launcher"
+msgstr "Premeu ⌘ per activar el llançador d'aplicacions"
+
+#. i18n: ectx: property (toolTip), widget (QCheckBox, metaPressHoldChkBox)
+#: app/settings/settingsdialog.ui:753
+#, kde-format
+msgid "Press and hold ⌘ to show shortcuts badges for applets and tasks"
+msgstr ""
+"Premeu i mantingueu ⌘ per mostrar els distintius de les dreceres de les "
+"miniaplicacions i les tasques"
+
+#. i18n: ectx: property (text), widget (QCheckBox, metaPressHoldChkBox)
+#: app/settings/settingsdialog.ui:756
+#, kde-format
+msgid "Press and Hold ⌘ to show shortcuts badges"
+msgstr "Premeu i mantingueu ⌘ per mostrar els distintius de les dreceres"
+
+#. i18n: ectx: property (text), widget (QLabel, mouseSensetivityLbl)
+#: app/settings/settingsdialog.ui:787
+#, kde-format
+msgid "Mouse Sensitivity"
+msgstr "Sensibilitat del ratolí"
+
+#. i18n: ectx: property (text), widget (QLabel, parabolicEffectLbl)
+#: app/settings/settingsdialog.ui:818
+#, kde-format
+msgid "Parabolic Effect"
+msgstr "Efecte parabòlic"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, lowSensitivityBtn)
+#: app/settings/settingsdialog.ui:849
+#, kde-format
+msgid "Low sensitivity for parabolic effect (low cpu usage and performance)"
+msgstr ""
+"Sensibilitat baixa per l'efecte parabòlic (ús baix de la CPU i rendiment)"
+
+#. i18n: ectx: property (text), widget (QToolButton, lowSensitivityBtn)
+#: app/settings/settingsdialog.ui:852
+#, kde-format
+msgctxt "low sensitivity"
+msgid "Low"
+msgstr "Baixa"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, mediumSensitivityBtn)
+#: app/settings/settingsdialog.ui:868
+#, kde-format
+msgid ""
+"Medium sensitivity for parabolic effect (normal cpu usage and performance)"
+msgstr ""
+"Sensibilitat mitjana per l'efecte parabòlic (ús normal de la CPU i rendiment)"
+
+#. i18n: ectx: property (text), widget (QToolButton, mediumSensitivityBtn)
+#: app/settings/settingsdialog.ui:871
+#, kde-format
+msgctxt "medium sensitivity"
+msgid "Medium"
+msgstr "Mitjana"
+
+#. i18n: ectx: property (toolTip), widget (QToolButton, highSensitivityBtn)
+#: app/settings/settingsdialog.ui:887
+#, kde-format
+msgid "High sensitivity for parabolic effect (high cpu usage and performance)"
+msgstr ""
+"Sensibilitat alta per l'efecte parabòlic (ús alt de la CPU i rendiment)"
+
+#. i18n: ectx: property (text), widget (QToolButton, highSensitivityBtn)
+#: app/settings/settingsdialog.ui:890
+#, kde-format
+msgctxt "high sensitivity"
+msgid "High"
+msgstr "Alta"
+
+#. i18n: ectx: property (text), widget (QLabel, delayLbl)
+#: app/settings/settingsdialog.ui:942
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:480
+#, kde-format
+msgid "Delay"
+msgstr "Retard"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, trackScreensDelayLbl)
+#. i18n: ectx: property (toolTip), widget (QSpinBox, screenTrackerSpinBox)
+#: app/settings/settingsdialog.ui:968 app/settings/settingsdialog.ui:991
+#, kde-format
+msgid ""
+"Different hardware can have different delays during screen changes.\n"
+"This tracker is used in order to not lose any screen related update."
+msgstr ""
+"Maquinari diferent pot tenir diferents retards durant els canvis de la "
+"pantalla.\n"
+"Aquest seguidor s'usa per a no perdre cap actualització relacionada amb la "
+"pantalla."
+
+#. i18n: ectx: property (text), widget (QLabel, trackScreensDelayLbl)
+#: app/settings/settingsdialog.ui:971
+#, kde-format
+msgid "React to screen changes after"
+msgstr "Reacciona als canvis de la pantalla després de"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, screenTrackerSpinBox)
+#: app/settings/settingsdialog.ui:1000
+#, kde-format
+msgid " ms."
+msgstr " ms."
+
+#. i18n: ectx: property (text), widget (QLabel, plasmaLbl)
+#: app/settings/settingsdialog.ui:1059
+#, kde-format
+msgid "Plasma Theme"
+msgstr "Tema del Plasma"
+
+#. i18n: ectx: property (toolTip), widget (QLabel, outlineLbl)
+#. i18n: ectx: property (toolTip), widget (QSpinBox, outlineSpinBox)
+#: app/settings/settingsdialog.ui:1087 app/settings/settingsdialog.ui:1115
+#, kde-format
+msgid "Outline width used from background to draw its borders"
+msgstr "Amplada del contorn usat pel fons per dibuixar les seves vores"
+
+#. i18n: ectx: property (text), widget (QLabel, outlineLbl)
+#: app/settings/settingsdialog.ui:1090
+#, kde-format
+msgid "Outline width"
+msgstr "Amplada del contorn"
+
+#. i18n: ectx: property (suffix), widget (QSpinBox, outlineSpinBox)
+#: app/settings/settingsdialog.ui:1118
+#, kde-format
+msgid " px."
+msgstr " px."
+
+#: app/shortcuts/globalshortcuts.cpp:100
+#, kde-format
+msgid "Show Latte Dock/Panel"
+msgstr "Mostra l'acoblador/plafó del Latte"
+
+# skip-rule: kct-dock
+#: app/shortcuts/globalshortcuts.cpp:109
+#, kde-format
+msgid "Cycle Through Dock/Panel Settings Windows"
+msgstr "Circula entre les finestres d'Arranjament de l'acoblable/plafó"
+
+#: app/shortcuts/globalshortcuts.cpp:118
+#, kde-format
+msgid "Show Latte Global Settings"
+msgstr "Mostra l'arranjament global del Latte"
+
+#: app/shortcuts/globalshortcuts.cpp:134 app/shortcuts/globalshortcuts.cpp:150
+#, kde-format
+msgid "Activate Entry %1"
+msgstr "Activa l'entrada %1"
+
+#: app/shortcuts/globalshortcuts.cpp:165 app/shortcuts/globalshortcuts.cpp:177
+#, kde-format
+msgid "New Instance for Entry %1"
+msgstr "Instància nova per a l'entrada %1"
+
+#: app/view/contextmenu.cpp:361
+#, kde-format
+msgctxt "%1 is the name of the containment"
+msgid "%1 Options"
+msgstr "Opcions per a %1"
+
+#: app/view/indicator/indicator.cpp:392
+#, kde-format
+msgctxt "add indicator"
+msgid "Add Indicator"
+msgstr "Afegeix indicador"
+
+#: app/view/indicator/indicator.cpp:401
+#, kde-format
+msgctxt "add indicator file"
+msgid "Latte Indicator"
+msgstr "Indicador del Latte"
+
+#: shell/package/contents/configuration/config.qml:27
+#, kde-format
+msgid "General"
+msgstr "General"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:196
+#, kde-format
+msgid "You can use Ctrl/Meta + Scroll Wheel to alter the window size"
+msgstr ""
+"Es pot usar Ctrl/Meta + Roda de desplaçament per alterar la mida de la "
+"finestra"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:209
+#, kde-format
+msgctxt "view settings width scale"
+msgid "Width scale at %0%"
+msgstr "Escalat de l'amplada %0%"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:210
+#, kde-format
+msgctxt "view settings height scale"
+msgid "Height scale at %0%"
+msgstr "Escalat de l'alçada al %0%"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:278
+#, kde-format
+msgid "Latte"
+msgstr "Latte"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:305
+#, kde-format
+msgid "Open Latte settings window"
+msgstr "Finestra d'arranjament de l'Open Latte"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:381
+#, kde-format
+msgctxt "advanced settings"
+msgid "Advanced"
+msgstr "Avançat"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:447
+#, kde-format
+msgid "Effects"
+msgstr "Efectes"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:453
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:392
+#, kde-format
+msgid "Tasks"
+msgstr "Tasques"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:540
+#, kde-format
+msgid "New Dock"
+msgstr "Acoblador nou"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:542
+#, kde-format
+msgid "Add a new dock"
+msgstr "Afegeix un acoblador nou"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:625
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:641
+#, kde-format
+msgid "Move to: %0"
+msgstr "Mou a: %0"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:658
+#, kde-format
+msgid "Copy Dock"
+msgstr "Copia l'acoblador"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:658
+#, kde-format
+msgid "Copy Panel"
+msgstr "Copia el plafó"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:667
+#, kde-format
+msgid "Remove"
+msgstr "Elimina"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:670
+#, kde-format
+msgid "Remove current dock"
+msgstr "Elimina l'acoblador actual"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:679
+#, kde-format
+msgid "Close"
+msgstr "Tanca"
+
+#: shell/package/contents/configuration/LatteDockConfiguration.qml:681
+#, kde-format
+msgid "Close settings window"
+msgstr "Tanca la finestra d'arranjament"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:128
+#, kde-format
+msgctxt "opens the layout manager window"
+msgid "Configure..."
+msgstr "Configura..."
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:147
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:667
+#, kde-format
+msgid "Items"
+msgstr "Elements"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:156
+#, kde-format
+msgctxt "items effects"
+msgid "Size"
+msgstr "Mida"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:167
+#, kde-format
+msgctxt "absolute size"
+msgid "Absolute"
+msgstr "Absoluta"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:207
+#, kde-format
+msgctxt "number in pixels, e.g. 12 px."
+msgid "%0 px."
+msgstr "%0 px."
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:221
+#, kde-format
+msgctxt "relative size"
+msgid "Relative"
+msgstr "Relativa"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:260
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:315
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:406
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:467
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:525
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:580
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:815
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:870
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:119
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:166
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:570
+#, kde-format
+msgctxt "number in percentage, e.g. 85 %"
+msgid "%0 %"
+msgstr "%0 %"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:260
+#, kde-format
+msgctxt "no value in percentage"
+msgid "--- %"
+msgstr "--- %"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:269
+#, kde-format
+msgctxt "items effects"
+msgid "Effects"
+msgstr "Efectes"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:280
+#, kde-format
+msgid "Zoom On Hover"
+msgstr "Zoom en passar-hi per sobre"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:332
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:503
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:545
+#, kde-format
+msgid "Length"
+msgstr "Longitud"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:346
+#, kde-format
+msgid "Maximum"
+msgstr "Màxim"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:420
+#, kde-format
+msgid "Offset"
+msgstr "Desplaçament"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:488
+#, kde-format
+msgid "Margins"
+msgstr "Marges"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:541
+#, kde-format
+msgid "Thickness"
+msgstr "Gruix"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:542
+#, kde-format
+msgid "Enable/disable thickness margins"
+msgstr "Activa/desactiva el gruix dels marges"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:557
+#, kde-format
+msgid "Height"
+msgstr "Alçada"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:557
+#, kde-format
+msgid "Width"
+msgstr "Amplada"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:599
+#, kde-format
+msgid "Colors"
+msgstr "Colors"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:637
+#, kde-format
+msgid "Theme"
+msgstr "Tema"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:647
+#, kde-format
+msgid "Plasma theme color palette is going to be used"
+msgstr "S'usarà la paleta de color del tema del Plasma"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:655
+#, kde-format
+msgid "Reverse"
+msgstr "Inverteix"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:659
+#, kde-format
+msgid "Reverse color palette from plasma theme is going to be used"
+msgstr "Inverteix l'ús de la paleta de color del tema del Plasma"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:667
+#, kde-format
+msgid "Smart"
+msgstr "Intel·ligent"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:671
+#, kde-format
+msgid ""
+"Smart color palette is going to provide best contrast after taking into "
+"account the environment such as the underlying background"
+msgstr ""
+"La paleta intel·ligent de colors proporcionarà el millor contrast després de "
+"tenir en compte l'entorn, com el fons subjacent"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:678
+#, kde-format
+msgid "From Window"
+msgstr "Des de la finestra"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:684
+#, kde-format
+msgid "None"
+msgstr "Sense"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:688
+#, kde-format
+msgid "Colors are not going to be based on any window"
+msgstr "Els colors no estaran basats en cap finestra"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:696
+#, kde-format
+msgid "Active"
+msgstr "Activa"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:701
+#, kde-format
+msgid "Colors are going to be based on the active window"
+msgstr "Els colors estaran basats en la finestra activa"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:702
+#, kde-format
+msgid ""
+"Colors are going to be based on the active window.\n"
+"Notice: For optimal experience you are advised to install Colors KWin Script "
+"from KDE Store"
+msgstr ""
+"Els colors es basaran en la finestra activa.\n"
+"Avís: per obtenir una experiència òptima, es recomana instal·lar l'script "
+"Colors del KWin des de la botiga del KDE."
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:721
+#, kde-format
+msgid "Touching"
+msgstr "Tàctil"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:726
+#, kde-format
+msgid "Colors are going to be based on windows that are touching the view"
+msgstr "Els colors estaran basats en les finestres que toquin la vista"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:727
+#, kde-format
+msgid ""
+"Colors are going to be based on windows that are touching the view.\n"
+"Notice: For optimal experience you are advised to install Colors KWin Script "
+"from KDE Store"
+msgstr ""
+"Els colors es basaran en les finestres que toquen la vista.\n"
+"Avís: per obtenir una experiència òptima, es recomana instal·lar l'script "
+"Colors del KWin des de la botiga del KDE."
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:760
+#, kde-format
+msgid "Background"
+msgstr "Fons"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:761
+#, kde-format
+msgid "Enable/disable background"
+msgstr "Activa/desactiva el fons"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:780
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:84
+#, kde-format
+msgid "Size"
+msgstr "Mida"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:829
+#, kde-format
+msgctxt "opacity when desktop background is busy from contrast point of view"
+msgid "Busy Opacity"
+msgstr "Opacitat ocupada"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:829
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:132
+#, kde-format
+msgid "Opacity"
+msgstr "Opacitat"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:880
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:582
+#, kde-format
+msgid "Options"
+msgstr "Opcions"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:894
+#, kde-format
+msgid "Blur"
+msgstr "Difuminat"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:898
+#, kde-format
+msgid "Background is blurred underneath"
+msgstr "El fons es difumina a sota"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:909
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:62
+#, kde-format
+msgid "Shadows"
+msgstr "Ombres"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:913
+#, kde-format
+msgid "Background shows its shadows"
+msgstr "El fons mostra les seves ombres"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:924
+#, kde-format
+msgid "Outline"
+msgstr "Contorn"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:928
+#, kde-format
+msgid ""
+"Background draws a line for its borders. You can set the line size from "
+"Latte Preferences"
+msgstr ""
+"El fons dibuixa una línia per a les seves vores. Podeu definir la mida de la "
+"línia a les preferències del Latte"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:938
+#, kde-format
+msgctxt "dynamic visibility for background"
+msgid "Dynamic Visibility"
+msgstr "Visibilitat dinàmica"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:947
+#, kde-format
+msgid "Prefer opaque background when touching any window"
+msgstr "Prefereix un fons opac en tocar qualsevol finestra"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:949
+#, kde-format
+msgid "Background removes its transparency setting when a window is touching"
+msgstr ""
+"El fons eliminarà el seu ajustament de transparència quan es toqui una "
+"finestra"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:961
+#, kde-format
+msgid "Hide background when not needed"
+msgstr "Oculta el fons quan no sigui necessari"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:963
+#, kde-format
+msgid ""
+"Background becomes hidden except when a window is touching or the desktop "
+"background is busy"
+msgstr ""
+"El fons s'ocultarà, excepte quan es toqui una finestra o el fons de "
+"l'escriptori resti ocupat"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:975
+#, kde-format
+msgid "Hide background shadow for maximized windows"
+msgstr "Oculta l'ombra del fons per a les finestres maximitzades"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:977
+#, kde-format
+msgid ""
+"Background shadows become hidden when an active maximized window is touching "
+"the view"
+msgstr ""
+"Les ombres del fons s'ocultaran quan una finestra maximitzada activa toqui "
+"la vista"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:989
+#, kde-format
+msgid "Exceptions"
+msgstr "Excepcions"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:996
+#, kde-format
+msgid "Prefer Plasma background and colors for expanded applets"
+msgstr ""
+"Prefereix fons i colors del Plasma per a les miniaplicacions expandides"
+
+#: shell/package/contents/configuration/pages/AppearanceConfig.qml:998
+#, kde-format
+msgid "Background becomes opaque in plasma style when applets are expanded"
+msgstr ""
+"El fons esdevé opac a l'estil del Plasma quan s'expandeixen les "
+"miniaplicacions"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:58
+#, kde-format
+msgid "Type"
+msgstr "Tipus"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:76
+#, kde-format
+msgid "Location"
+msgstr "Ubicació"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:101
+#, kde-format
+msgid "On Primary"
+msgstr "A la primària"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:243
+#, kde-format
+msgctxt "bottom location"
+msgid "Bottom"
+msgstr "Baix"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:257
+#, kde-format
+msgctxt "left location"
+msgid "Left"
+msgstr "Esquerra"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:271
+#, kde-format
+msgctxt "top location"
+msgid "Top"
+msgstr "Superior"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:285
+#, kde-format
+msgctxt "right location"
+msgid "Right"
+msgstr "Dreta"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:305
+#, kde-format
+msgid "Alignment"
+msgstr "Alineació"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:330
+#, kde-format
+msgctxt "top alignment"
+msgid "Top"
+msgstr "Superior"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:330
+#, kde-format
+msgctxt "left alignment"
+msgid "Left"
+msgstr "Esquerra"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:341
+#, kde-format
+msgctxt "center alignment"
+msgid "Center"
+msgstr "Centre"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:352
+#, kde-format
+msgctxt "bottom alignment"
+msgid "Bottom"
+msgstr "Inferior"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:352
+#, kde-format
+msgctxt "right alignment"
+msgid "Right"
+msgstr "Dreta"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:364
+#, kde-format
+msgctxt "justify alignment"
+msgid "Justify"
+msgstr "Justificada"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:382
+#, kde-format
+msgid "Visibility"
+msgstr "Visibilitat"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:408
+#, kde-format
+msgid "Always Visible"
+msgstr "Sempre visible"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:418
+#, kde-format
+msgid "Auto Hide"
+msgstr "Oculta automàticament"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:428
+#, kde-format
+msgid "Dodge Active"
+msgstr "Esvaeix les actives"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:438
+#, kde-format
+msgid "Dodge Maximized"
+msgstr "Esvaeix les maximitzades"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:449
+#, kde-format
+msgid "Dodge All Windows"
+msgstr "Esvaeix totes les finestres"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:460
+#, kde-format
+msgid "Windows Go Below"
+msgstr "Les finestres van a sota"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:511
+#, kde-format
+msgid "Show "
+msgstr "Mostra"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:542
+#, kde-format
+msgid "Hide"
+msgstr "Oculta"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:574
+#, kde-format
+msgid "Empty Area"
+msgstr "Àrea buida"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:583
+#, kde-format
+msgid "Mouse wheel"
+msgstr "Roda del ratolí"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:589
+#, kde-format
+msgctxt "none scroll actions"
+msgid "None Action"
+msgstr "Cap acció"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:590
+#, kde-format
+msgid "Cycle Through Desktops"
+msgstr "Circula entre els escriptoris"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:591
+#, kde-format
+msgid "Cycle Through Activities"
+msgstr "Circula entre les activitats"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:592
+#: shell/package/contents/configuration/pages/TasksConfig.qml:441
+#: shell/package/contents/configuration/pages/TasksConfig.qml:485
+#: shell/package/contents/configuration/pages/TasksConfig.qml:585
+#, kde-format
+msgid "Cycle Through Tasks"
+msgstr "Circula entre les tasques"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:617
+#, kde-format
+msgid "Active Window"
+msgstr "Finestra activa"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:627
+#, kde-format
+msgid "Track From"
+msgstr "Segueix des de"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:633
+#, kde-format
+msgctxt "track from current screen"
+msgid "Current Screen"
+msgstr "Pantalla actual"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:634
+#, kde-format
+msgctxt "track from all screens"
+msgid "All Screens"
+msgstr "Totes les pantalles"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:654
+#, kde-format
+msgid "Drag and maximize/restore active window"
+msgstr "Arrossega i maximitza/restaura la finestra activa"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:656
+#, kde-format
+msgid ""
+"Drag/Maximize/Restore active window with double-click and dragging actions"
+msgstr ""
+"Arrossega/Maximitza/Restaura la finestra activa amb un clic doble i accions "
+"d'arrossegament"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:674
+#, kde-format
+msgid "Show title tooltips on hovering"
+msgstr "Mostra els títols del consells en passar-hi per sobre"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:675
+#, kde-format
+msgid ""
+"Show thinner tooltips produced by Latte for items.\n"
+"These tooltips are not drawn when applets zoom effect is disabled"
+msgstr ""
+"Mostra els consells d'eina més fins produïts pel Latte per als elements.\n"
+"Aquests consells d'eina no es dibuixen quan l'efecte de zoom de les "
+"miniaplicacions està desactivat"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:687
+#, kde-format
+msgid "Activate through mouse wheel"
+msgstr "Activa emprant la roda del ratolí"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:689
+#, kde-format
+msgid "Enable/Disable the mouse wheel action"
+msgstr "Activa/desactiva les accions de la roda del ratolí"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:700
+#, kde-format
+msgid "🅰 Activate based on position through global shortcuts"
+msgstr "🅰 Activació basada en la posició mitjançant les dreceres globals"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:702
+#, kde-format
+msgid ""
+"This view is used for based on position global shortcuts. Take note that "
+"only one view can have that option enabled for each layout"
+msgstr ""
+"Aquesta vista s'empra per a basar-se en la posició de les dreceres globals. "
+"Preneu nota que només una vista pot tenir aquesta opció habilitada per a "
+"cada disposició"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:724
+#, kde-format
+msgid "Environment"
+msgstr "Entorn"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:733
+#, kde-format
+msgid "Activate KWin edge after hiding"
+msgstr "Activa el KWin Edges després d'ocultar"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:735
+#, kde-format
+msgid ""
+"After the view becomes hidden, KWin is informed to track user feedback. For "
+"example an edge visual hint is shown whenever the mouse approaches the "
+"hidden view"
+msgstr ""
+"Després que la vista esdevingui oculta, el KWin activarà el seguiment de la "
+"retroalimentació de l'usuari. Per exemple, es mostrarà un consell visual de "
+"vora si el ratolí s'aproxima a la vista oculta"
+
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:745
+#, kde-format
+msgid "Can be above fullscreen windows"
+msgstr "Pot estar per sobre de les finestres a pantalla completa"
+
+# skip-rule: kct-dock
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:748
+#, kde-format
+msgid ""
+"BypassWindowManagerHint flag for the window. The view will be above all "
+"windows even those set as 'Always On Top'"
+msgstr ""
+"Indicador «BypassWindowManagerHint» de la finestra. La vista estarà per "
+"sobre de totes les finestres encara que tinguin establert «Sempre a sobre»"
+
+# skip-rule: kct-dock
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:757
+#, kde-format
+msgid "Raise on desktop change"
+msgstr "Eleva en canviar d'escriptori"
+
+# skip-rule: kct-dock
+#: shell/package/contents/configuration/pages/BehaviorConfig.qml:767
+#, kde-format
+msgid "Raise on activity change"
+msgstr "Eleva en canviar d'activitat"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:63
+#, kde-format
+msgid "Enable/disable applet shadows"
+msgstr "Activa/desactiva les ombres de la miniaplicació"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:175
+#, kde-format
+msgid "Color"
+msgstr "Color"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:217
+#, kde-format
+msgctxt "default shadow"
+msgid "Default"
+msgstr "Predeterminada"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:221
+#, kde-format
+msgid "Default shadow for applets"
+msgstr "Ombra predeterminada per a les miniaplicacions"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:228
+#, kde-format
+msgctxt "theme shadow"
+msgid "Theme"
+msgstr "Tema"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:232
+#, kde-format
+msgid "Shadow from theme color palette"
+msgstr "Ombra de la paleta de color del tema"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:244
+#, kde-format
+msgid "Use set shadow color"
+msgstr "Usa el color de l'ombra definit"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:279
+#, kde-format
+msgid "Please choose shadow color"
+msgstr "Escolliu el color de l'ombra"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:321
+#, kde-format
+msgid "Animations"
+msgstr "Animacions"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:322
+#, kde-format
+msgid "Enable/disable all animations"
+msgstr "Activa/desactiva totes les animacions"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:337
+#, kde-format
+msgid "Speed"
+msgstr "Velocitat"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:360
+#, kde-format
+msgid "x1"
+msgstr "x1"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:369
+#, kde-format
+msgid "x2"
+msgstr "x2"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:378
+#, kde-format
+msgid "x3"
+msgstr "x3"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:398
+#, kde-format
+msgid "Bounce launchers when triggered"
+msgstr "Rebota els llançadors quan s'activin"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:408
+#, kde-format
+msgid "Bounce tasks that need attention"
+msgstr "Rebota les tasques que requereixen atenció"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:418
+#, kde-format
+msgid "Slide in and out single windows"
+msgstr "Feu lliscar a dins i a fora de les finestres individuals"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:428
+#, kde-format
+msgid "Grouped tasks bounce their new windows"
+msgstr "Les tasques agrupades reboten en les seves finestres noves"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:438
+#, kde-format
+msgid "Grouped tasks slide out their closed windows"
+msgstr "Les tasques agrupades llisquen en les seves finestres tancades"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:462
+#, kde-format
+msgid "Indicators"
+msgstr "Indicadors"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:463
+#, kde-format
+msgid "Enable/disable indicators"
+msgstr "Activa/desactiva els indicadors"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:477
+#, kde-format
+msgid "Style"
+msgstr "Estil"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:502
+#, kde-format
+msgctxt "latte indicator style"
+msgid "Latte"
+msgstr "Latte"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:506
+#, kde-format
+msgid "Use Latte style for your indicators"
+msgstr "Usa l'estil del Latte per als indicadors"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:513
+#, kde-format
+msgctxt "plasma indicator style"
+msgid "Plasma"
+msgstr "Plasma"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:517
+#, kde-format
+msgid "Use Plasma style for your indicators"
+msgstr "Usa l'estil del Plasma per als indicadors"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:537
+#, kde-format
+msgid "Paddings"
+msgstr "Farciment"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:588
+#, kde-format
+msgid "Show indicators for applets"
+msgstr "Mostra els indicadors per a les miniaplicacions"
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:590
+#, kde-format
+msgid "Indicators are shown for applets"
+msgstr "Els indicadors seran mostrats per a les miniaplicacions."
+
+#: shell/package/contents/configuration/pages/EffectsConfig.qml:610
+#, kde-format
+msgid "%0 Indicator Options"
+msgstr "Opcions de l'indicador %0"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:56
+#, kde-format
+msgid "Badges"
+msgstr "Distintius"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:65
+#, kde-format
+msgid "Notifications from tasks"
+msgstr "Notificacions de les tasques"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:67
+#, kde-format
+msgid "Show unread messages or notifications from tasks"
+msgstr "Mostra els missatges sense llegir o les notificacions de les tasques"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:76
+#, kde-format
+msgid "Progress information for tasks"
+msgstr "Informació de progrés per a les tasques"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:78
+#, kde-format
+msgid ""
+"Show a progress animation for tasks e.g. when copying files with Dolphin"
+msgstr ""
+"Mostra una animació de progrés per a les tasques, p. ex. quan copieu fitxers "
+"amb el Dolphin"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:87
+#, kde-format
+msgid "Audio playing from tasks"
+msgstr "Reproducció d'àudio de les tasques"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:89
+#, kde-format
+msgid "Show audio playing from tasks"
+msgstr "Mostra la reproducció d'àudio de les tasques"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:98
+#, kde-format
+msgid "Prominent color for notification badge"
+msgstr "Color prominent per al distintiu de notificació"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:101
+#, kde-format
+msgid ""
+"Notification badge uses a more prominent background which is usually red"
+msgstr ""
+"El distintiu de notificació usa un color de fons més prominent que "
+"normalment és el vermell"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:110
+#, kde-format
+msgid "Change volume when scrolling audio badge"
+msgstr "Canvia el volum en desplaçar el distintiu de l'àudio"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:113
+#, kde-format
+msgid ""
+"The user is able to mute/unmute with click or change the volume with mouse "
+"wheel"
+msgstr ""
+"L'usuari pot silenciar/activar el so amb un clic o canviar el volum amb la "
+"roda del ratolí"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:129
+#, kde-format
+msgid "Interaction"
+msgstr "Interacció"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:138
+#, kde-format
+msgid "Add launchers only in the Tasks Area"
+msgstr "Afegeix els llançadors només a l'àrea de tasques"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:140
+#, kde-format
+msgid "Launchers are added only in the taskmanager and not as plasma applets"
+msgstr ""
+"Els llançadors només s'afegiran al gestor de tasques i no com a "
+"miniaplicacions del Plasma"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:150
+#, kde-format
+msgid "Window actions in the context menu"
+msgstr "Accions de la finestra al menú contextual"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:163
+#, kde-format
+msgid "🅰 Based on position shortcuts apply only for tasks"
+msgstr ""
+"🅰 Es basa en la posició de les dreceres, només s'aplica per a les tasques"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:165
+#, kde-format
+msgid ""
+"Based on position global shortcuts are enabled only for tasks and not for "
+"applets"
+msgstr ""
+"El basar-se en la posició de les dreceres globals està habilitat per a les "
+"tasques però desactivat per a les miniaplicacions"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:183
+#, kde-format
+msgid "Filters"
+msgstr "Filtres"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:192
+#, kde-format
+msgid "Show only tasks from the current screen"
+msgstr "Mostra només les tasques de la pantalla actual"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:202
+#, kde-format
+msgid "Show only tasks from the current desktop"
+msgstr "Mostra només les tasques de l'escriptori actual"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:212
+#, kde-format
+msgid "Show only tasks from the current activity"
+msgstr "Mostra només les tasques de l'activitat actual"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:222
+#, kde-format
+msgid "Show only tasks from launchers"
+msgstr "Mostra només les tasques dels llançadors"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:233
+#, kde-format
+msgid "Group tasks of the same application"
+msgstr "Grup de tasques de la mateixa aplicació"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:235
+#, kde-format
+msgid "By default group tasks of the same application"
+msgstr "Per omissió, el grup de tasques de la mateixa aplicació"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:252
+#, kde-format
+msgid "Launchers"
+msgstr "Llançadors"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:262
+#, kde-format
+msgctxt "launchers group"
+msgid "Group"
+msgstr "Grup"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:288
+#, kde-format
+msgctxt "unique launchers group"
+msgid "Unique"
+msgstr "Únic"
+
+# skip-rule: kct-dock
+#: shell/package/contents/configuration/pages/TasksConfig.qml:292
+#, kde-format
+msgid ""
+"Use a unique set of launchers for this view which is independent from any "
+"other view"
+msgstr ""
+"Usa un conjunt únic de llançadors per aquesta vista que sigui independent de "
+"qualsevol altra vista"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:301
+#, kde-format
+msgctxt "layout launchers group"
+msgid "Layout"
+msgstr "Disposició"
+
+# skip-rule: kct-dock
+#: shell/package/contents/configuration/pages/TasksConfig.qml:305
+#, kde-format
+msgid ""
+"Use the current layout set of launchers for this latteView. This group "
+"provides launchers <b>synchronization</b> between different views in the "
+"<b>same layout</b>"
+msgstr ""
+"Usa la disposició actual del conjunt de llançadors per aquesta «latteView». "
+"Aquest grup proporciona <b>sincronització</b> dels llançadors entre "
+"diferents vistes amb la <b>mateixa disposició</b>"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:315
+#, kde-format
+msgctxt "global launchers group"
+msgid "Global"
+msgstr "Global"
+
+# skip-rule: kct-dock
+#: shell/package/contents/configuration/pages/TasksConfig.qml:319
+#, kde-format
+msgid ""
+"Use the global set of launchers for this latteView. This group provides "
+"launchers <b>synchronization</b> between different views and between "
+"<b>different layouts</b>"
+msgstr ""
+"Usa el conjunt global de llançadors per aquesta «latteView». Aquest grup "
+"proporciona <b>sincronització</b> dels llançadors entre diferents vistes i "
+"entre <b>diferents disposicions</b>"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:342
+#, kde-format
+msgid "Scrolling"
+msgstr "Desplaçament"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:343
+#, kde-format
+msgid ""
+"Enable tasks scrolling when they overflow and exceed the available space"
+msgstr ""
+"Activa les tasques de desplaçament quan desborden i excedeixen l'espai "
+"disponible"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:365
+#, kde-format
+msgid "Manual"
+msgstr "Manual"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:372
+#, kde-format
+msgctxt "disabled manual scrolling"
+msgid "Disabled scrolling"
+msgstr "Desactiva el desplaçament"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:373
+#, kde-format
+msgid "Only vertical scrolling"
+msgstr "Només desplaçament vertical"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:373
+#, kde-format
+msgid "Only horizontal scrolling"
+msgstr "Només desplaçament horitzontal"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:374
+#, kde-format
+msgid "Horizontal and vertical scrolling"
+msgstr "Desplaçament horitzontal i vertical"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:383
+#, kde-format
+msgid "Automatic"
+msgstr "Automàtic"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:391
+#, kde-format
+msgid "Disabled"
+msgstr "Desactivat"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:392
+#, kde-format
+msgid "Enabled"
+msgstr "Activat"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:434
+#: shell/package/contents/configuration/pages/TasksConfig.qml:571
+#, kde-format
+msgid "Left Click"
+msgstr "Clic esquerre"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:440
+#, kde-format
+msgctxt "present windows action"
+msgid "Present Windows"
+msgstr "Presenta les finestres"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:442
+#: shell/package/contents/configuration/pages/TasksConfig.qml:502
+#, kde-format
+msgid "Preview Windows"
+msgstr "Vista prèvia de les finestres"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:474
+#: shell/package/contents/configuration/pages/TasksConfig.qml:571
+#, kde-format
+msgid "Middle Click"
+msgstr "Clic del mig"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:481
+#: shell/package/contents/configuration/pages/TasksConfig.qml:584
+#, kde-format
+msgctxt "The click action"
+msgid "None"
+msgstr "Res"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:482
+#: shell/package/contents/configuration/pages/TasksConfig.qml:584
+#, kde-format
+msgid "Close Window or Group"
+msgstr "Tanca la finestra o grup"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:483
+#: shell/package/contents/configuration/pages/TasksConfig.qml:585
+#, kde-format
+msgid "New Instance"
+msgstr "Instància nova"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:484
+#: shell/package/contents/configuration/pages/TasksConfig.qml:585
+#, kde-format
+msgid "Minimize/Restore Window or Group"
+msgstr "Minimitza/restaura la finestra o grup"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:486
+#: shell/package/contents/configuration/pages/TasksConfig.qml:585
+#, kde-format
+msgid "Toggle Task Grouping"
+msgstr "Canviar l'agrupació de les tasques"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:494
+#, kde-format
+msgid "Hover"
+msgstr "En passar per sobre"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:501
+#, kde-format
+msgctxt "none action"
+msgid "None"
+msgstr "Res"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:503
+#, kde-format
+msgid "Highlight Windows"
+msgstr "Ressalta les finestres"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:504
+#, kde-format
+msgid "Preview and Highlight Windows"
+msgstr "Vista prèvia i ressaltat de les finestres"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:571
+#, kde-format
+msgid "Right Click"
+msgstr "Clic dret"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:611
+#, kde-format
+msgid "Recycling"
+msgstr "Reciclatge"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:621
+#, kde-format
+msgid "Remove Latte Tasks Applet"
+msgstr "Suprimeix la miniaplicació de tasques del Latte"
+
+#: shell/package/contents/configuration/pages/TasksConfig.qml:623
+#, kde-format
+msgid "Remove Latte Tasks plasmoid"
+msgstr "Suprimeix el plasmoide de tasques del Latte"
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:32
+#, kde-format
+msgid "Download indicator styles from the internet"
+msgstr "Baixa estils d'indicadors des d'Internet"
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:33
+#, kde-format
+msgid "Use %0 style for your indicators"
+msgstr "Usa l'estil %0 per als indicadors"
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:115
+#, kde-format
+msgid "Download"
+msgstr "Baixa"
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:144
+#, kde-format
+msgid "Remove indicator"
+msgstr "Elimina l'indicador"
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:198
+#, kde-format
+msgid "Add Indicator..."
+msgstr "Afegeix un indicador..."
+
+#: shell/package/contents/controls/CustomIndicatorButton.qml:208
+#, kde-format
+msgid "Get New Indicators..."
+msgstr "Obtén indicadors nous..."
+
+#: shell/package/contents/controls/TypeSelection.qml:67
+#, kde-format
+msgctxt "dock type"
+msgid "Dock"
+msgstr "Acoblador"
+
+#: shell/package/contents/controls/TypeSelection.qml:69
+#, kde-format
+msgid "Change the behavior and appearance to Dock type"
+msgstr "Canvia el comportament i l'aparença al tipus Acoblador"
+
+#: shell/package/contents/controls/TypeSelection.qml:109
+#, kde-format
+msgctxt "panel type"
+msgid "Panel"
+msgstr "Plafó"
+
+#: shell/package/contents/controls/TypeSelection.qml:111
+#, kde-format
+msgid "Change the behavior and appearance to Panel type"
+msgstr "Canvia el comportament i l'aparença al tipus Plafó"

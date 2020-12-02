@@ -1,0 +1,125 @@
+# Language None translations for latte-dock package.
+# Copyright (C) 2019 This file is copyright:
+# This file is distributed under the same license as the latte-dock package.
+#
+# Automatically generated, 2019.
+# pan93412 <pan93412@gmail.com>, 2019, 2020.
+# Jeff Huang <s8321414@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: latte-dock\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-30 07:37+0200\n"
+"PO-Revision-Date: 2020-02-15 19:56+0800\n"
+"Last-Translator: Yi-Jyun Pan <pan93412@gmail.com>\n"
+"Language-Team: Chinese <kde-i18n-doc@kde.org>\n"
+"Language: None\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Lokalize 19.12.2\n"
+
+#: default/package/config/config.qml:38
+#, kde-format
+msgctxt "active indicator style"
+msgid "Style For Active"
+msgstr "作用中的樣式"
+
+#: default/package/config/config.qml:62
+#, kde-format
+msgctxt "line indicator"
+msgid "Line"
+msgstr "線"
+
+#: default/package/config/config.qml:66
+#, kde-format
+msgid "Show a line indicator for active items"
+msgstr "作用中的項目顯示線指示器"
+
+#: default/package/config/config.qml:74
+#, kde-format
+msgctxt "dot indicator"
+msgid "Dot"
+msgstr "點"
+
+#: default/package/config/config.qml:78
+#, kde-format
+msgid "Show a dot indicator for active items"
+msgstr "作用中的項目顯示點指示器"
+
+#: default/package/config/config.qml:92
+#, kde-format
+msgid "Glow"
+msgstr "發光"
+
+#: default/package/config/config.qml:93
+#, kde-format
+msgid "Enable/disable indicator glow"
+msgstr "啟用／停用指示器發光"
+
+#: default/package/config/config.qml:121
+#, kde-format
+msgctxt "glow only to active task/applet indicators"
+msgid "On Active"
+msgstr "作用中"
+
+#: default/package/config/config.qml:125
+#, kde-format
+msgid "Add glow only to active task/applet indicator"
+msgstr "僅在作用中的工作／小型應用程式指示器上加入發光"
+
+#: default/package/config/config.qml:133
+#, kde-format
+msgctxt "glow to all task/applet indicators"
+msgid "All"
+msgstr "全部"
+
+#: default/package/config/config.qml:137
+#, kde-format
+msgid "Add glow to all task/applet indicators"
+msgstr "將發光加到所有的工作／小型應用程式指示器"
+
+#: default/package/config/config.qml:153
+#, kde-format
+msgid "Opacity"
+msgstr "不透明"
+
+#: default/package/config/config.qml:186
+#, kde-format
+msgctxt "number in percentage, e.g. 85 %"
+msgid "%0 %"
+msgstr "%0 %"
+
+#: default/package/config/config.qml:199
+#, kde-format
+msgid "Tasks"
+msgstr "工作"
+
+#: default/package/config/config.qml:205
+#, kde-format
+msgid "Different color for minimized windows"
+msgstr "最小化視窗的顏色不同"
+
+#: default/package/config/config.qml:215
+#, kde-format
+msgid "Show an extra dot for grouped windows when active"
+msgstr "已分組的視窗作用中時顯示額外的點"
+
+#: default/package/config/config.qml:217
+#, kde-format
+msgid ""
+"Grouped windows show both a line and a dot when one of them is active and "
+"the Line Active Indicator is enabled"
+msgstr ""
+"當已分組的視窗其中之一為作用中時，且啟用線作用中指示器時，同時顯示線與點"
+
+#: default/package/config/config.qml:229
+#, kde-format
+msgid "Options"
+msgstr "選項"
+
+#: default/package/config/config.qml:234
+#, kde-format
+msgid "Reverse indicator style"
+msgstr "反轉指示器樣式"

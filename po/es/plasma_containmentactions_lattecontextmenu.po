@@ -1,0 +1,67 @@
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Víctor Rodrigo Córdoba <vrcordoba@gmail.com>, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-30 07:37+0200\n"
+"PO-Revision-Date: 2019-02-16 16:39+0100\n"
+"Last-Translator: Víctor Rodrigo Córdoba <vrcordoba@gmail.com>\n"
+"Language-Team: Spanish <kde-l10n-es@kde.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: menu.cpp:70
+#, kde-format
+msgid "&Add Widgets..."
+msgstr "&Añadir elementos gráficos..."
+
+#: menu.cpp:71
+#, kde-format
+msgid "Show Plasma Widget Explorer"
+msgstr "Mostrar explorador de elementos gráficos de Plasma"
+
+#: menu.cpp:80
+#, kde-format
+msgctxt "view settings window"
+msgid "View &Settings..."
+msgstr "Ver preferencia&s..."
+
+#: menu.cpp:92
+#, kde-format
+msgid "&Layouts"
+msgstr "&Distribuciones"
+
+#: menu.cpp:94
+#, kde-format
+msgid "Switch to another layout"
+msgstr "Cambiar a otra distribución"
+
+#: menu.cpp:141
+#, kde-format
+msgctxt "dock settings window"
+msgid "Dock &Settings..."
+msgstr "Preferencia&s del dock..."
+
+#: menu.cpp:141
+#, kde-format
+msgctxt "panel settings window"
+msgid "Panel &Settings..."
+msgstr "Preferencia&s del panel..."
+
+#: menu.cpp:175
+#, kde-format
+msgctxt "current layout"
+msgid "(Current)"
+msgstr "(Actual)"
+
+#: menu.cpp:201
+#, kde-format
+msgid "Configure..."
+msgstr "Configurar..."

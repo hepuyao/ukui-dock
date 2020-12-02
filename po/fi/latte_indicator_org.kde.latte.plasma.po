@@ -1,0 +1,28 @@
+# Copyright (C) YEAR This file is copyright:
+# This file is distributed under the same license as the latte-dock package.
+# Tommi Nieminen <translator@legisign.org>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: latte-dock\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-30 07:37+0200\n"
+"PO-Revision-Date: 2019-04-29 15:51+0200\n"
+"Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
+"Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: org.kde.latte.plasma/package/config/config.qml:39
+#, kde-format
+msgid "Reverse indicator style"
+msgstr "Käänteinen ilmaisintyyli"
+
+#: org.kde.latte.plasma/package/config/config.qml:49
+#, kde-format
+msgid "Growing circle animation when clicked"
+msgstr "Kasvava animoitu ympyrä napsautettaessa"

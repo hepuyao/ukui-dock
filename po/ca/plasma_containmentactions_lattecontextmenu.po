@@ -1,0 +1,70 @@
+# Translation of plasma_containmentactions_lattecontextmenu.po to Catalan
+# Copyright (C) 2018-2019 This_file_is_part_of_KDE
+# This file is distributed under the license LGPL version 2.1 or
+# version 3 or later versions approved by the membership of KDE e.V.
+#
+# Josep Ma. Ferrer <txemaq@gmail.com>, 2018, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: plasma_containmentactions_lattecontextmenu\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-08-30 07:37+0200\n"
+"PO-Revision-Date: 2019-02-15 18:02+0100\n"
+"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 2.0\n"
+
+#: menu.cpp:70
+#, kde-format
+msgid "&Add Widgets..."
+msgstr "&Afegeix estris..."
+
+#: menu.cpp:71
+#, kde-format
+msgid "Show Plasma Widget Explorer"
+msgstr "Mostra l'explorador d'estris del Plasma"
+
+#: menu.cpp:80
+#, kde-format
+msgctxt "view settings window"
+msgid "View &Settings..."
+msgstr "Arran&jament de la vista..."
+
+#: menu.cpp:92
+#, kde-format
+msgid "&Layouts"
+msgstr "&Disposicions"
+
+#: menu.cpp:94
+#, kde-format
+msgid "Switch to another layout"
+msgstr "Canvia a una altra disposició"
+
+# skip-rule: kct-dock
+#: menu.cpp:141
+#, kde-format
+msgctxt "dock settings window"
+msgid "Dock &Settings..."
+msgstr "Arran&jament de l'acoblable..."
+
+#: menu.cpp:141
+#, kde-format
+msgctxt "panel settings window"
+msgid "Panel &Settings..."
+msgstr "Arran&jament del plafó..."
+
+#: menu.cpp:175
+#, kde-format
+msgctxt "current layout"
+msgid "(Current)"
+msgstr "(Actual)"
+
+#: menu.cpp:201
+#, kde-format
+msgid "Configure..."
+msgstr "Configura..."
