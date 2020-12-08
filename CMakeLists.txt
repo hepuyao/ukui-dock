@@ -1,4 +1,4 @@
-project(lattedock)
+project(ukui-dock)
 cmake_minimum_required(VERSION 3.0 FATAL_ERROR)
 
 set(CMAKE_CXX_STANDARD 14)
@@ -78,7 +78,7 @@ include(WriteBasicConfigVersionFile)
 include(Definitions.cmake)
 
 add_subdirectory(declarativeimports)
-add_subdirectory(liblatte2)
+#add_subdirectory(liblatte2)
 #add_subdirectory(indicators)
 add_subdirectory(app)
 add_subdirectory(containmentactions)
