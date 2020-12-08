@@ -77,14 +77,14 @@ include(WriteBasicConfigVersionFile)
 
 include(Definitions.cmake)
 
-add_subdirectory(declarativeimports)
+#add_subdirectory(declarativeimports)
 #add_subdirectory(liblatte2)
 #add_subdirectory(indicators)
 add_subdirectory(app)
-add_subdirectory(containmentactions)
-add_subdirectory(containment)
+#add_subdirectory(containmentactions)
+#add_subdirectory(containment)
 #add_subdirectory(icons)
 #add_subdirectory(plasmoid)
-add_subdirectory(shell)
+#add_subdirectory(shell)
 
 ki18n_install(po)
