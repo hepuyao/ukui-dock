@@ -28,12 +28,12 @@ set(latte_dbusXML dbus/org.kde.LatteDock.xml)
 qt5_add_dbus_adaptor(lattedock-app_SRCS ${latte_dbusXML} lattecorona.h Latte::Corona lattedockadaptor)
 ki18n_wrap_ui(lattedock-app_SRCS settings/settingsdialog.ui)
 
-add_executable(latte-dock ${lattedock-app_SRCS})
+add_executable(ukui-dock ${lattedock-app_SRCS})
 
 include(FakeTarget.cmake)
 
 if(${KF5_VERSION_MINOR} LESS "62")
-    target_link_libraries(latte-dock
+    target_link_libraries(ukui-dock
         Qt5::DBus
         Qt5::Quick
         Qt5::Qml
@@ -57,7 +57,7 @@ if(${KF5_VERSION_MINOR} LESS "62")
         KF5::XmlGui
     )
 else()
-    target_link_libraries(latte-dock
+    target_link_libraries(ukui-dock
         Qt5::DBus
         Qt5::Quick
         Qt5::Qml
@@ -83,7 +83,7 @@ else()
 endif()
 
 if(HAVE_X11)
-    target_link_libraries(latte-dock
+    target_link_libraries(ukui-dock
         Qt5::X11Extras
         KF5::WindowSystem
         ${X11_LIBRARIES}
@@ -94,7 +94,7 @@ endif()
 configure_file(org.kde.latte-dock.desktop.cmake org.kde.latte-dock.desktop)
 configure_file(org.kde.latte-dock.appdata.xml.cmake org.kde.latte-dock.appdata.xml)
 
-install(TARGETS latte-dock ${KDE_INSTALL_TARGETS_DEFAULT_ARGS})
+install(TARGETS ukui-dock ${KDE_INSTALL_TARGETS_DEFAULT_ARGS})
 install(FILES ${CMAKE_CURRENT_BINARY_DIR}/org.kde.latte-dock.desktop DESTINATION ${KDE_INSTALL_APPDIR})
 install(FILES ${CMAKE_CURRENT_BINARY_DIR}/org.kde.latte-dock.appdata.xml DESTINATION ${KDE_INSTALL_METAINFODIR})
 install(FILES dbus/org.kde.LatteDock.xml DESTINATION ${KDE_INSTALL_DBUSINTERFACEDIR})
