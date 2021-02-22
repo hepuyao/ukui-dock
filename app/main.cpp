@@ -332,7 +332,7 @@ inline void detectPlatform(int argc, char **argv)
     }
 
     if (qstrcmp(sessionType, "wayland") == 0) {
-        qputenv("QT_QPA_PLATFORM", "xcb");
+        qputenv("QT_QPA_PLATFORM", "wayland");
     } else if (qstrcmp(sessionType, "x11") == 0) {
         qputenv("QT_QPA_PLATFORM", "xcb");
     }
