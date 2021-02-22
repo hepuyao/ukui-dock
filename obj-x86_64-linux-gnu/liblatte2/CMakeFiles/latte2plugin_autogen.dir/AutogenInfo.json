@@ -1,0 +1,376 @@
+{
+	"BUILD_DIR" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/liblatte2/latte2plugin_autogen",
+	"CMAKE_BINARY_DIR" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/liblatte2",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11",
+	"HEADERS" : 
+	[
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/backgroundtracker.h",
+			"Mu",
+			"EWIEGA46WW/moc_backgroundtracker.cpp"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/commontools.h",
+			"Mu",
+			"EWIEGA46WW/moc_commontools.cpp"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/iconitem.h",
+			"Mu",
+			"EWIEGA46WW/moc_iconitem.cpp"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/latteplugin.h",
+			"Mu",
+			"EWIEGA46WW/moc_latteplugin.cpp"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/plasma/extended/backgroundcache.h",
+			"Mu",
+			"PRN4CEZ4N5/moc_backgroundcache.cpp"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/plasma/extended/screenpool.h",
+			"Mu",
+			"PRN4CEZ4N5/moc_screenpool.cpp"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/quickwindowsystem.h",
+			"Mu",
+			"EWIEGA46WW/moc_quickwindowsystem.cpp"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/types.h",
+			"Mu",
+			"EWIEGA46WW/moc_types.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/liblatte2/latte2plugin_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/liblatte2/latte2plugin_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"KCOREADDONS_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"QT_WIDGETS_LIB",
+		"_GNU_SOURCE",
+		"_LARGEFILE64_SOURCE",
+		"latte2plugin_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_PACKAGE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_PACKAGE_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_SERVICE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_SERVICE_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_APPLET_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_APPLET_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_APPLETSCRIPTENGINE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_APPLETSCRIPTENGINE_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_DATAENGINESCRIPTENGINE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_DATAENGINESCRIPTENGINE_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_CONTAINMENTACTIONS_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_CONTAINMENTACTIONS_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_DATAENGINE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_DATAENGINE_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_PACKAGE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_PACKAGE_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_SERVICE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_SERVICE_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_APPLET_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_APPLET_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_APPLETSCRIPTENGINE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_APPLETSCRIPTENGINE_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_DATAENGINESCRIPTENGINE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_DATAENGINESCRIPTENGINE_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_CONTAINMENTACTIONS_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_CONTAINMENTACTIONS_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_EXPORT_PLASMA_DATAENGINE_WITH_JSON",
+			"[\n^][ \t]*K_EXPORT_PLASMA_DATAENGINE_WITH_JSON[ \t\n]*\\([^,]*,[^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_FACTORY_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_FACTORY_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		],
+		[
+			"K_PLUGIN_CLASS_WITH_JSON",
+			"[\n^][ \t]*K_PLUGIN_CLASS_WITH_JSON[ \t\n]*\\([^,]*,[ \t\n]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/liblatte2",
+		"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQuick",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQmlModels",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/KF5/KCoreAddons",
+		"/usr/include/KF5",
+		"/usr/include/KF5/Plasma",
+		"/usr/include/KF5/KService",
+		"/usr/include/KF5/KConfigCore",
+		"/usr/include/KF5/KPackage",
+		"/usr/include/KF5/KWindowSystem",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/KF5/KDeclarative",
+		"/usr/include/KF5/KIconThemes",
+		"/usr/include",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_EXPORT_PLASMA_SERVICE",
+		"K_EXPORT_PLASMA_APPLET",
+		"K_EXPORT_PLASMA_PACKAGE",
+		"K_EXPORT_PLASMA_APPLETSCRIPTENGINE",
+		"K_EXPORT_PLASMA_DATAENGINESCRIPTENGINE",
+		"K_EXPORT_PLASMA_DATAENGINE",
+		"K_EXPORT_PLASMA_PACKAGE_WITH_JSON",
+		"K_EXPORT_PLASMA_SERVICE_WITH_JSON",
+		"K_EXPORT_PLASMA_APPLET_WITH_JSON",
+		"K_EXPORT_PLASMA_APPLETSCRIPTENGINE_WITH_JSON",
+		"K_EXPORT_PLASMA_DATAENGINESCRIPTENGINE_WITH_JSON",
+		"K_EXPORT_PLASMA_CONTAINMENTACTIONS_WITH_JSON",
+		"K_EXPORT_PLASMA_DATAENGINE_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_EXPORT_KPACKAGE_PACKAGE_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON",
+		"K_EXPORT_PLASMA_SERVICE",
+		"K_EXPORT_PLASMA_APPLET",
+		"K_EXPORT_PLASMA_PACKAGE",
+		"K_EXPORT_PLASMA_APPLETSCRIPTENGINE",
+		"K_EXPORT_PLASMA_DATAENGINESCRIPTENGINE",
+		"K_EXPORT_PLASMA_DATAENGINE",
+		"K_EXPORT_PLASMA_PACKAGE_WITH_JSON",
+		"K_EXPORT_PLASMA_SERVICE_WITH_JSON",
+		"K_EXPORT_PLASMA_APPLET_WITH_JSON",
+		"K_EXPORT_PLASMA_APPLETSCRIPTENGINE_WITH_JSON",
+		"K_EXPORT_PLASMA_DATAENGINESCRIPTENGINE_WITH_JSON",
+		"K_EXPORT_PLASMA_CONTAINMENTACTIONS_WITH_JSON",
+		"K_EXPORT_PLASMA_DATAENGINE_WITH_JSON",
+		"K_PLUGIN_FACTORY",
+		"K_PLUGIN_FACTORY_WITH_JSON",
+		"K_PLUGIN_CLASS_WITH_JSON"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/liblatte2/latte2plugin_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/liblatte2/CMakeFiles/latte2plugin_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/liblatte2/CMakeFiles/latte2plugin_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/backgroundtracker.cpp",
+			"Mu"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/commontools.cpp",
+			"Mu"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/iconitem.cpp",
+			"Mu"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/latteplugin.cpp",
+			"Mu"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/plasma/extended/backgroundcache.cpp",
+			"Mu"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/plasma/extended/screenpool.cpp",
+			"Mu"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/quickwindowsystem.cpp",
+			"Mu"
+		],
+		[
+			"/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/liblatte2/types.cpp",
+			"Mu"
+		]
+	],
+	"VERBOSITY" : 0
+}

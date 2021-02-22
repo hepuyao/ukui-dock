@@ -1,0 +1,73 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mvourlakos@gmail.com, audoban@openmailbox.org",
+                "Name": "Michail Vourlakos, Smith Ar"
+            }
+        ],
+        "Category": "Windows and Tasks",
+        "Description": "Tasks plasmoid from Latte Dock",
+        "Description[ca@valencia]": "Plasmoide de tasques del Latte Dock",
+        "Description[ca]": "Plasmoide de tasques del Latte Dock",
+        "Description[cs]": "Plasmoid úloh z doku Latte",
+        "Description[en_GB]": "Tasks plasmoid from Latte Dock",
+        "Description[es]": "Plasmoide de tareas de Latte Dock",
+        "Description[eu]": "Atazen plasmoidea Latte Docketik",
+        "Description[fi]": "Latte-telakan tehtäväsovelma",
+        "Description[gl]": "Plasmoides de tarefas da doca Latte",
+        "Description[id]": "Plasmoid tugas-tugas dari Dock Latte",
+        "Description[it]": "Plasmoide dei processi da Latte Dock",
+        "Description[ko]": "Latte 도구집의 태스크 Plasmoid",
+        "Description[nl]": "Plasmoid voor taken uit Latte Dock",
+        "Description[nn]": "Oppgåve-skjermelement frå Latte-dokk",
+        "Description[pl]": "Plazmoidy zadań dla doku Latte",
+        "Description[pt]": "Plasmóide de tarefas da Área Acoplável do Latte",
+        "Description[pt_BR]": "Plasmoide de tarefas do Latte Dock",
+        "Description[ru]": "Виджет процессов из Latte Dock",
+        "Description[sk]": "Plazmoid úloh z doku Latte",
+        "Description[sv]": "Aktivitetsplasmoid för Latte dockningsfönster",
+        "Description[uk]": "Плазмоїд завдань з панелі Латте",
+        "Description[x-test]": "xxTasks plasmoid from Latte Dockxx",
+        "Description[zh_CN]": "Latte 停靠栏的任务管理 Plasma 部件",
+        "Description[zh_TW]": "來自 Latte Dock 的工作 Plasmoid",
+        "EnabledByDefault": true,
+        "Icon": "latte-dock",
+        "Id": "org.kde.latte.plasmoid",
+        "License": "GPL v2+",
+        "Name": "Latte Tasks",
+        "Name[ca@valencia]": "Tasques del Latte",
+        "Name[ca]": "Tasques del Latte",
+        "Name[cs]": "Úlohy Latte",
+        "Name[en_GB]": "Latte Tasks",
+        "Name[es]": "Tareas de Latte",
+        "Name[eu]": "Latte atazak",
+        "Name[fi]": "Latte-tehtävät",
+        "Name[gl]": "Tarefas de Latte",
+        "Name[id]": "Tugas-tugas Latte",
+        "Name[it]": "Processi di Latte",
+        "Name[ko]": "Latte 태스크",
+        "Name[nl]": "Latte-taken",
+        "Name[nn]": "Latte-oppgåver",
+        "Name[pl]": "Zadania Latte",
+        "Name[pt]": "Tarefas do Latte",
+        "Name[pt_BR]": "Tarefas do Latte",
+        "Name[ru]": "Процессы Latte",
+        "Name[sk]": "Úlohy pre Latte",
+        "Name[sv]": "Latte aktiviteter",
+        "Name[uk]": "Завдання Латте",
+        "Name[x-test]": "xxLatte Tasksxx",
+        "Name[zh_CN]": "Latte 任务管理器",
+        "Name[zh_TW]": "Latte 工作",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "0.9.11",
+        "Website": "https://userbase.kde.org/LatteDock"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-Provides": [
+        "org.kde.plasma.multitasking"
+    ]
+}

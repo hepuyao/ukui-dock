@@ -1,0 +1,6 @@
+#ifndef CONFIG_LATTE_LIB_H
+#define CONFIG_LATTE_LIB_H
+
+#define ENABLE_MAKE_UNIQUE 0
+
+#endif // CONFIG_LATTE_LIB_H

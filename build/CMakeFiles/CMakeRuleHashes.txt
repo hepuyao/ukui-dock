@@ -1,0 +1,17 @@
+# Hashes of file build rules.
+c0c74b61cf6d3c531f96b1b0544f5880 CMakeFiles/pofiles-915e7ab8334b3a6eca91cab4519138de
+3a2e611102b6cf06fcd4eb3e0f00c699 CMakeFiles/tsfiles-915e7ab8334b3a6eca91cab4519138de
+987a51ad785ff9ae1cf9f80115a2f869 CMakeFiles/uninstall
+4013f184b86944d37477b67b2994bfb5 app/CMakeFiles/latte-dock_autogen
+9ff28804cdf6869edefedd945708a420 app/lattedockadaptor.cpp
+946611377755c27442565439eab97fa4 app/lattedockadaptor.moc
+47f3dd285c38bbb45a8b5ec43b0fb852 app/packageplugins/indicator/CMakeFiles/latte_packagestructure_indicator_autogen
+efa6274b5c832ab207c2aee8288a5556 app/packageplugins/indicator/latte-packagestructure-indicator.json
+430a0dbd48ef521001eac198c3b38d4a app/ui_settingsdialog.h
+0f72b64e7318fa27238917510bcf98d5 containment/CMakeFiles/org.kde.latte.containment-plasmoids-metadata-json
+91d8374d1eb94be8bb680e0c2b70794e containment/org.kde.latte.containment-plasmoids-metadata.json
+151938a781dd41155e9358cf84455da1 liblatte2/CMakeFiles/latte2plugin_autogen
+3a85def6cd8053be9e1900b4644341e3 plasmoid/CMakeFiles/org.kde.latte.plasmoid-plasmoids-metadata-json
+beb05daaa7521ddf969aa580fd835bc0 plasmoid/org.kde.latte.plasmoid-plasmoids-metadata.json
+8259fcc1ee56a888fd5c498f82b0419a shell/CMakeFiles/org.kde.latte.shell-shells-metadata-json
+981a053000744afd99a709a53fb1427a shell/org.kde.latte.shell-shells-metadata.json

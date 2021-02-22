@@ -1,0 +1,19 @@
+Start testing: Feb 20 16:45 CST
+----------------------------------------------------------
+1/1 Testing: appstreamtest
+1/1 Test: appstreamtest
+Command: "/usr/bin/cmake" "-DAPPSTREAMCLI=/usr/bin/appstreamcli" "-DINSTALL_FILES=/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu/install_manifest.txt" "-P" "/usr/share/ECM/kde-modules/appstreamtest.cmake"
+Directory: /home/kylin/ukui/ukui-dock/latte-dock-0.9.11/obj-x86_64-linux-gnu
+"appstreamtest" start time: Feb 20 16:45 CST
+Output:
+----------------------------------------------------------
+Not installed yet, skipping
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"appstreamtest" end time: Feb 20 16:45 CST
+"appstreamtest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 20 16:45 CST

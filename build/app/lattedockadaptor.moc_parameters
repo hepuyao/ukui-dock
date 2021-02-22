@@ -1,0 +1,7 @@
+-I/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/app
+-I/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/build/app
+-D_GNU_SOURCE
+-D_LARGEFILE64_SOURCE
+-o
+/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/build/app/lattedockadaptor.moc
+/home/kylin/ukui/ukui-dock/latte-dock-0.9.11/build/app/lattedockadaptor.h

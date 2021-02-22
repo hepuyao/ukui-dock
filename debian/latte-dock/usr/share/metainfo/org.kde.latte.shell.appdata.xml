@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+    <id>org.kde.latte.shell</id>
+    <extends>latte-dock</extends>
+    <name>Latte Shell</name>
+    <name xml:lang="ca@valencia">Intèrpret d'ordres del Latte</name>
+    <name xml:lang="ca">Intèrpret d'ordres del Latte</name>
+    <name xml:lang="cs">Shell Latte</name>
+    <name xml:lang="da">Latte-skal</name>
+    <name xml:lang="de">Latte-Shell</name>
+    <name xml:lang="el">Κέλυφος Latte</name>
+    <name xml:lang="en_GB">Latte Shell</name>
+    <name xml:lang="es">Consola de Latte</name>
+    <name xml:lang="eu">Latte Shell-a</name>
+    <name xml:lang="fi">Latte-käyttöliittymä</name>
+    <name xml:lang="gl">Intérprete de ordes de Latte</name>
+    <name xml:lang="id">Shell Latte</name>
+    <name xml:lang="it">shell Latte</name>
+    <name xml:lang="ko">Latte 셸</name>
+    <name xml:lang="nl">Latte-shell</name>
+    <name xml:lang="nn">Latte-skal</name>
+    <name xml:lang="pl">Powłoka Latte</name>
+    <name xml:lang="pt">Consola do Latte</name>
+    <name xml:lang="pt_BR">Latte Shell</name>
+    <name xml:lang="ru">Оболочка Latte</name>
+    <name xml:lang="sk">Shell Latte</name>
+    <name xml:lang="sv">Latte skal</name>
+    <name xml:lang="uk">Оболонка Латте</name>
+    <name xml:lang="x-test">xxLatte Shellxx</name>
+    <name xml:lang="zh_CN">Latte Shell</name>
+    <name xml:lang="zh_TW">Latte Shell</name>
+    <summary>Shell provided for the Latte Dock</summary>
+    <summary xml:lang="ca@valencia">Intèrpret d'ordres proporcionat pel Latte Dock</summary>
+    <summary xml:lang="ca">Intèrpret d'ordres proporcionat pel Latte Dock</summary>
+    <summary xml:lang="da">Skal til Latte-dokken</summary>
+    <summary xml:lang="de">Shell für Latte-Dock</summary>
+    <summary xml:lang="el">Κέλυφος που παρέχεται από την εφαρμογή Latte</summary>
+    <summary xml:lang="en_GB">Shell provided for the Latte Dock</summary>
+    <summary xml:lang="es">Shell proporcionada para Latte Dock</summary>
+    <summary xml:lang="eu">Shell-a Latte Dockentzat</summary>
+    <summary xml:lang="fi">Latte-telakalle tarjottu käyttöliittymä</summary>
+    <summary xml:lang="gl">Intérprete de ordes fornecido para a doca Latte</summary>
+    <summary xml:lang="id">Shell disediakan untuk Dock Latte</summary>
+    <summary xml:lang="it">Shell fornita per Latte Dock</summary>
+    <summary xml:lang="ko">Latte 도구집을 위해 제공된 셸</summary>
+    <summary xml:lang="nl">Shell geleverd voor de Latte Dock</summary>
+    <summary xml:lang="nn">Skal frå Latte-dokk</summary>
+    <summary xml:lang="pl">Powłoka dla doku Latte</summary>
+    <summary xml:lang="pt">Consola oferecida para a área acoplável do Latte</summary>
+    <summary xml:lang="pt_BR">Shell fornecido pelo Latte Dock</summary>
+    <summary xml:lang="ru">Оболочка для Latte Dock</summary>
+    <summary xml:lang="sk">Shell poskytnutý pre dok Latte</summary>
+    <summary xml:lang="sv">Skal tillhandahållet för Latte dockningsfönster</summary>
+    <summary xml:lang="uk">Оболонка панелі Латте</summary>
+    <summary xml:lang="x-test">xxShell provided for the Latte Dockxx</summary>
+    <summary xml:lang="zh_CN">用于 Latte 停靠栏的 Shell</summary>
+    <summary xml:lang="zh_TW">由 Latte Dock 提供的 Shell</summary>
+    <url type="homepage">https://userbase.kde.org/LatteDock</url>
+    <url type="donation">https://www.kde.org/donate.php?app=org.kde.latte.shell</url>
+    <developer_name>Michail Vourlakos, Smith Ar &lt;mvourlakos@gmail.com, audoban@openmailbox.org&gt;</developer_name>
+    <project_license>GPL-3.0+</project_license>
+    <metadata_license>CC0-1.0</metadata_license>
+</component>

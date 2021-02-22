@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+    <id>org.kde.latte.plasmoid</id>
+    <extends>org.kde.plasmashell</extends>
+    <name>Latte Tasks</name>
+    <name xml:lang="ca@valencia">Tasques del Latte</name>
+    <name xml:lang="ca">Tasques del Latte</name>
+    <name xml:lang="cs">Úlohy Latte</name>
+    <name xml:lang="en_GB">Latte Tasks</name>
+    <name xml:lang="es">Tareas de Latte</name>
+    <name xml:lang="eu">Latte atazak</name>
+    <name xml:lang="fi">Latte-tehtävät</name>
+    <name xml:lang="gl">Tarefas de Latte</name>
+    <name xml:lang="id">Tugas-tugas Latte</name>
+    <name xml:lang="it">Processi di Latte</name>
+    <name xml:lang="ko">Latte 태스크</name>
+    <name xml:lang="nl">Latte-taken</name>
+    <name xml:lang="nn">Latte-oppgåver</name>
+    <name xml:lang="pl">Zadania Latte</name>
+    <name xml:lang="pt">Tarefas do Latte</name>
+    <name xml:lang="pt_BR">Tarefas do Latte</name>
+    <name xml:lang="ru">Процессы Latte</name>
+    <name xml:lang="sk">Úlohy pre Latte</name>
+    <name xml:lang="sv">Latte aktiviteter</name>
+    <name xml:lang="uk">Завдання Латте</name>
+    <name xml:lang="x-test">xxLatte Tasksxx</name>
+    <name xml:lang="zh_CN">Latte 任务管理器</name>
+    <name xml:lang="zh_TW">Latte 工作</name>
+    <summary>Tasks plasmoid from Latte Dock</summary>
+    <summary xml:lang="ca@valencia">Plasmoide de tasques del Latte Dock</summary>
+    <summary xml:lang="ca">Plasmoide de tasques del Latte Dock</summary>
+    <summary xml:lang="cs">Plasmoid úloh z doku Latte</summary>
+    <summary xml:lang="en_GB">Tasks plasmoid from Latte Dock</summary>
+    <summary xml:lang="es">Plasmoide de tareas de Latte Dock</summary>
+    <summary xml:lang="eu">Atazen plasmoidea Latte Docketik</summary>
+    <summary xml:lang="fi">Latte-telakan tehtäväsovelma</summary>
+    <summary xml:lang="gl">Plasmoides de tarefas da doca Latte</summary>
+    <summary xml:lang="id">Plasmoid tugas-tugas dari Dock Latte</summary>
+    <summary xml:lang="it">Plasmoide dei processi da Latte Dock</summary>
+    <summary xml:lang="ko">Latte 도구집의 태스크 Plasmoid</summary>
+    <summary xml:lang="nl">Plasmoid voor taken uit Latte Dock</summary>
+    <summary xml:lang="nn">Oppgåve-skjermelement frå Latte-dokk</summary>
+    <summary xml:lang="pl">Plazmoidy zadań dla doku Latte</summary>
+    <summary xml:lang="pt">Plasmóide de tarefas da Área Acoplável do Latte</summary>
+    <summary xml:lang="pt_BR">Plasmoide de tarefas do Latte Dock</summary>
+    <summary xml:lang="ru">Виджет процессов из Latte Dock</summary>
+    <summary xml:lang="sk">Plazmoid úloh z doku Latte</summary>
+    <summary xml:lang="sv">Aktivitetsplasmoid för Latte dockningsfönster</summary>
+    <summary xml:lang="uk">Плазмоїд завдань з панелі Латте</summary>
+    <summary xml:lang="x-test">xxTasks plasmoid from Latte Dockxx</summary>
+    <summary xml:lang="zh_CN">Latte 停靠栏的任务管理 Plasma 部件</summary>
+    <summary xml:lang="zh_TW">來自 Latte Dock 的工作 Plasmoid</summary>
+    <url type="homepage">https://userbase.kde.org/LatteDock</url>
+    <url type="donation">https://www.kde.org/donate.php?app=org.kde.latte.plasmoid</url>
+    <developer_name>Michail Vourlakos, Smith Ar &lt;mvourlakos@gmail.com, audoban@openmailbox.org&gt;</developer_name>
+    <icon type="stock">latte-dock</icon>
+    <project_license>GPL-2.0+</project_license>
+    <metadata_license>CC0-1.0</metadata_license>
+</component>

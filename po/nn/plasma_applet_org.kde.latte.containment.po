@@ -1,0 +1,80 @@
+# Translation of plasma_applet_org.kde.latte.containment to Norwegian Nynorsk
+#
+# Karl Ove Hufthammer <karl@huftis.org>, 2018, 2019, 2020.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2019-12-26 07:44+0100\n"
+"PO-Revision-Date: 2020-03-15 20:10+0100\n"
+"Last-Translator: Karl Ove Hufthammer <karl@huftis.org>\n"
+"Language-Team: Norwegian Nynorsk <l10n-no@lister.huftis.org>\n"
+"Language: nn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Lokalize 19.12.3\n"
+"X-Environment: kde\n"
+"X-Accelerator-Marker: &\n"
+"X-Text-Markup: kde4\n"
+
+#: package/contents/ui/applet/AppletItem.qml:849
+#, kde-format
+msgid "Tasks Area"
+msgstr "Oppgåveområde"
+
+#: package/contents/ui/editmode/ConfigOverlay.qml:348
+#, kde-format
+msgid "Justify Splitter"
+msgstr "Delar for blokkjustering"
+
+#: package/contents/ui/editmode/ConfigOverlay.qml:375
+#, kde-format
+msgid "Configure applet"
+msgstr "Set opp programikon"
+
+#: package/contents/ui/editmode/ConfigOverlay.qml:397
+#, kde-format
+msgid "Enable painting  for this applet"
+msgstr "Slå på teikning for elementet"
+
+#: package/contents/ui/editmode/ConfigOverlay.qml:409
+#, kde-format
+msgid "Disable parabolic effect for this applet"
+msgstr "Slå av parabolsk effekt for dette programikonet"
+
+#: package/contents/ui/editmode/ConfigOverlay.qml:421
+#, kde-format
+msgid "Remove applet"
+msgstr "Fjern programikon"
+
+#: package/contents/ui/editmode/HeaderSettings.qml:82
+#, kde-format
+msgid "Rearrange and configure your widgets"
+msgstr "Ordna og set opp skjermelementa"
+
+#: package/contents/ui/editmode/HeaderSettings.qml:83
+#, kde-format
+msgid ""
+"Feel free to move around your widgets and configure them from their tooltips"
+msgstr ""
+"Flytt gjerne rundt på skjermelementa – og bruk hjelpeboblene til å setja dei "
+"opp"
+
+#: package/contents/ui/editmode/maxlength/Ruler.qml:44
+#, kde-format
+msgctxt "maximum length tooltip, %0% is maximum length percentage"
+msgid "You can use mouse wheel to change maximum length of %0%"
+msgstr "Du kan bruka musehjulet til å endra makslengda til %0 %"
+
+#: package/contents/ui/editmode/maxlength/Ruler.qml:263
+#, kde-format
+msgid "Maximum Length"
+msgstr "Makslengd"
+
+#: package/contents/ui/editmode/Visual.qml:163
+#, kde-format
+msgctxt "opacity for background under edit mode, %0% is opacity percentage"
+msgid "You can use mouse wheel to change background opacity of %0%"
+msgstr "Du kan bruka musehjulet til å endra ugjennomsikta til %0 %"
